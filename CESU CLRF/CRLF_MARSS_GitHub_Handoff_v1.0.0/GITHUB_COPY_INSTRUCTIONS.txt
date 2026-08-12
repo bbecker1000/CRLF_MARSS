@@ -1,0 +1,63 @@
+CRLF MARSS GitHub Handoff Documentation Bundle
+Version 1.0.0
+
+HOW TO USE THIS BUNDLE
+======================
+
+1. Copy these files into the matching locations inside F:/CRLF_MARSS.
+
+2. These files are documentation/preflight additions. They are NOT replacements
+   for your existing numbered R modules or 00_run_full_pipeline.R.
+
+3. Copy:
+
+   README.md
+   QUICK_START.md
+   CHANGELOG.md
+   CONTRIBUTING.md
+   .gitignore
+
+   into:
+   F:/CRLF_MARSS/
+
+4. Copy the entire docs/ directory into:
+
+   F:/CRLF_MARSS/docs/
+
+5. Copy:
+
+   tools/99_github_preflight.R
+
+   into:
+   F:/CRLF_MARSS/tools/
+
+6. Copy:
+
+   archive/baseline/README_BASELINE.md
+
+   into:
+   F:/CRLF_MARSS/archive/baseline/
+
+   Then place the locked original monolithic MARSS script beside it under the
+   filename documented in the README if it is not already archived there.
+
+7. DO NOT move your existing marss_results inputs just to match a cosmetic
+   folder layout. The documentation reflects your current pipeline paths.
+
+8. Before GitHub upload, restart R and run:
+
+   setwd("F:/CRLF_MARSS")
+   source("00_run_full_pipeline.R")
+
+9. Then run:
+
+   source("tools/99_github_preflight.R")
+
+10. Resolve docs/RELEASE_DECISIONS.md before making the repository public.
+
+IMPORTANT
+=========
+
+This bundle intentionally does not contain a LICENSE or CITATION.cff because
+license, authorship/citation, data-sharing permissions, and repository
+visibility require project-owner/PI decisions.
