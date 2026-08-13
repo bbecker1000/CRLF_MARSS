@@ -1,0 +1,2 @@
+Model_ID,Model_Family,Hypothesis,Biological_Interpretation,Covariates,C_Structure,B_Structure,U_Structure,Q_Structure,R_Structure,Expected_Free_C
+M4_OctDec_RunMean3,Drought memory,Three-year mean Oct-Dec PDSI influences pond-level CRLF dynamics.,CRLF population dynamics may integrate antecedent hydrologic conditions across three breeding cycles.,PDSI_OctDec_RunMean3,site_specific,identity,unequal,diagonal and unequal,zero,14

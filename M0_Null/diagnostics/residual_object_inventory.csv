@@ -1,0 +1,11 @@
+Model_ID,Component,Class,Dimensions
+M0_Null,model.residuals,matrix|array,14 x 29
+M0_Null,state.residuals,matrix|array,14 x 29
+M0_Null,residuals,matrix|array,28 x 29
+M0_Null,var.residuals,array,28 x 28 x 29
+M0_Null,std.residuals,matrix|array,28 x 29
+M0_Null,mar.residuals,matrix|array,28 x 29
+M0_Null,bchol.residuals,matrix|array,28 x 29
+M0_Null,E.obs.residuals,matrix|array,14 x 29
+M0_Null,var.obs.residuals,array,14 x 14 x 29
+M0_Null,msg,NULL,0

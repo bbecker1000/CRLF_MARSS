@@ -1,0 +1,2 @@
+Model_ID,Model_Family,Fit_Status,Final_Method,Final_Convergence,Final_Iterations,N_Sites,N_Years,Total_Site_Years,Observed_Site_Years,Missing_Site_Years,Observation_Fraction,K,N_Free_C,LogLik,AIC,AICc,Residuals_Available,Run_ID,Residual_Error
+M1_Interactive_Direct,Contemporary seasonal interaction,CONVERGED,KEM,0,50,14,29,406,273,133,0.6724137931034483,84,42,-395.2616427959992,958.5232855919984,1034.480732400509,TRUE,20260810_150943_M1_Interactive_Direct,NA

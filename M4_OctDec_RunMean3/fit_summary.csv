@@ -1,0 +1,2 @@
+Model_ID,Model_Family,Hypothesis,Fit_Status,KEM_Convergence,KEM_Iterations,BFGS_Attempted,BFGS_Convergence,BFGS_Iterations,Final_Method,Final_Convergence,Final_Iterations,K,N_Free_C,LogLik,AIC,AICc,Error_Message,Run_ID
+M4_OctDec_RunMean3,Drought memory,Three-year mean Oct-Dec PDSI influences pond-level CRLF dynamics.,CONVERGED,0,53,FALSE,NA,NA,KEM,0,53,56,14,-421.102079291621,954.204158583242,983.7597141387976,NA,20260810_150954_M4_OctDec_RunMean3

@@ -1,0 +1,2 @@
+Model_ID,Model_Family,Hypothesis,Fit_Status,KEM_Convergence,KEM_Iterations,BFGS_Attempted,BFGS_Convergence,BFGS_Iterations,Final_Method,Final_Convergence,Final_Iterations,K,N_Free_C,LogLik,AIC,AICc,Error_Message,Run_ID
+M0_Null,Null,CRLF population dynamics do not require a PDSI covariate.,CONVERGED,10,2000,TRUE,0,1,BFGS,0,1,42,0,-431.99935489962957,947.9987097992591,963.7030576253461,NA,20260810_114259_M0_Null

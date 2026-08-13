@@ -1,0 +1,2 @@
+Model_ID,Model_Family,Hypothesis,Biological_Interpretation,Covariates,C_Structure,B_Structure,U_Structure,Q_Structure,R_Structure,Expected_Free_C
+M0_Null,Null,CRLF population dynamics do not require a PDSI covariate.,Population trajectories are explained by the underlying stochastic population process without an explicit climate effect.,,none,identity,unequal,diagonal and unequal,zero,0

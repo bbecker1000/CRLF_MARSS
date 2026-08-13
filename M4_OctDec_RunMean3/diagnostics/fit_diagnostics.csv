@@ -1,0 +1,2 @@
+Model_ID,Model_Family,Fit_Status,Final_Method,Final_Convergence,Final_Iterations,N_Sites,N_Years,Total_Site_Years,Observed_Site_Years,Missing_Site_Years,Observation_Fraction,K,N_Free_C,LogLik,AIC,AICc,Residuals_Available,Run_ID,Residual_Error
+M4_OctDec_RunMean3,Recent climate memory,CONVERGED,KEM,0,53,14,29,406,273,133,0.6724137931034483,56,14,-421.102079291621,954.204158583242,983.7597141387976,TRUE,20260810_150954_M4_OctDec_RunMean3,NA

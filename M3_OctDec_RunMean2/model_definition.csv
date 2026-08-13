@@ -1,0 +1,2 @@
+Model_ID,Model_Family,Hypothesis,Biological_Interpretation,Covariates,C_Structure,B_Structure,U_Structure,Q_Structure,R_Structure,Expected_Free_C
+M3_OctDec_RunMean2,Drought memory,Two-year mean Oct-Dec PDSI influences pond-level CRLF dynamics.,Antecedent hydrologic conditions may have a short multi-year cumulative effect.,PDSI_OctDec_RunMean2,site_specific,identity,unequal,diagonal and unequal,zero,14

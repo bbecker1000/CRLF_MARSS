@@ -1,0 +1,2 @@
+Model_ID,Model_Family,Hypothesis,Biological_Interpretation,Covariates,C_Structure,B_Structure,U_Structure,Q_Structure,R_Structure,Expected_Free_C
+M1_Interactive_Direct,Current climate interaction,Current Oct-Dec and Jan-Mar PDSI jointly influence pond-level CRLF dynamics.,"Antecedent pond filling, breeding-season conditions, and their interaction influence annual population dynamics.",PDSI_OctDec|PDSI_JanMar|PDSI_Interact,site_specific,identity,unequal,diagonal and unequal,zero,42

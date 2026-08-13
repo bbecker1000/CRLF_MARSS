@@ -1,0 +1,2 @@
+Model_ID,Model_Family,Hypothesis,Fit_Status,KEM_Convergence,KEM_Iterations,BFGS_Attempted,BFGS_Convergence,BFGS_Iterations,Final_Method,Final_Convergence,Final_Iterations,K,N_Free_C,LogLik,AIC,AICc,Error_Message,Run_ID
+M2_Interactive_Lag3,Lagged climate interaction,PDSI conditions three years earlier influence current pond-level CRLF dynamics.,CONVERGED,0,95,FALSE,NA,NA,KEM,0,95,84,42,-410.7169472868306,989.4338945736612,1065.3913413821717,NA,20260810_150948_M2_Interactive_Lag3

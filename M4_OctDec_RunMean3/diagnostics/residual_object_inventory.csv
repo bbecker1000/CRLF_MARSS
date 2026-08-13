@@ -1,0 +1,11 @@
+Model_ID,Component,Class,Dimensions
+M4_OctDec_RunMean3,model.residuals,matrix|array,14 x 29
+M4_OctDec_RunMean3,state.residuals,matrix|array,14 x 29
+M4_OctDec_RunMean3,residuals,matrix|array,28 x 29
+M4_OctDec_RunMean3,var.residuals,array,28 x 28 x 29
+M4_OctDec_RunMean3,std.residuals,matrix|array,28 x 29
+M4_OctDec_RunMean3,mar.residuals,matrix|array,28 x 29
+M4_OctDec_RunMean3,bchol.residuals,matrix|array,28 x 29
+M4_OctDec_RunMean3,E.obs.residuals,matrix|array,14 x 29
+M4_OctDec_RunMean3,var.obs.residuals,array,14 x 14 x 29
+M4_OctDec_RunMean3,msg,NULL,0

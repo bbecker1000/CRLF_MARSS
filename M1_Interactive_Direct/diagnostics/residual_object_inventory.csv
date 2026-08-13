@@ -1,0 +1,11 @@
+Model_ID,Component,Class,Dimensions
+M1_Interactive_Direct,model.residuals,matrix|array,14 x 29
+M1_Interactive_Direct,state.residuals,matrix|array,14 x 29
+M1_Interactive_Direct,residuals,matrix|array,28 x 29
+M1_Interactive_Direct,var.residuals,array,28 x 28 x 29
+M1_Interactive_Direct,std.residuals,matrix|array,28 x 29
+M1_Interactive_Direct,mar.residuals,matrix|array,28 x 29
+M1_Interactive_Direct,bchol.residuals,matrix|array,28 x 29
+M1_Interactive_Direct,E.obs.residuals,matrix|array,14 x 29
+M1_Interactive_Direct,var.obs.residuals,array,14 x 14 x 29
+M1_Interactive_Direct,msg,NULL,0

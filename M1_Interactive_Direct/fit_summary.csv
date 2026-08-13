@@ -1,0 +1,2 @@
+Model_ID,Model_Family,Hypothesis,Fit_Status,KEM_Convergence,KEM_Iterations,BFGS_Attempted,BFGS_Convergence,BFGS_Iterations,Final_Method,Final_Convergence,Final_Iterations,K,N_Free_C,LogLik,AIC,AICc,Error_Message,Run_ID
+M1_Interactive_Direct,Current climate interaction,Current Oct-Dec and Jan-Mar PDSI jointly influence pond-level CRLF dynamics.,CONVERGED,0,50,FALSE,NA,NA,KEM,0,50,84,42,-395.2616427959992,958.5232855919984,1034.480732400509,NA,20260810_150943_M1_Interactive_Direct

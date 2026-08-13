@@ -1,0 +1,2 @@
+Model_ID,Bootstrap_Status,Fit_Status,N_Boot_Requested,N_Boot_Recorded,Bootstrap_Seed,Bootstrap_Method,CI_Alpha,Elapsed_Minutes,Error_Message,Bootstrap_File,Run_ID
+M0_Null,COMPLETE,CONVERGED,500,500,20261441,parametric,0.05,97.46624711751937,NA,F:/CRLF_MARSS/marss_results/models/M0_Null/fit_bootstrap_CIs.rds,20260810_114259_M0_Null

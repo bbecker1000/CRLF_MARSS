@@ -1,0 +1,2 @@
+Model_ID,Model_Family,Hypothesis,Biological_Interpretation,Covariates,C_Structure,B_Structure,U_Structure,Q_Structure,R_Structure,Expected_Free_C
+M2_Interactive_Lag3,Lagged climate interaction,PDSI conditions three years earlier influence current pond-level CRLF dynamics.,Hydrologic conditions experienced by an earlier cohort may influence later breeding populations.,PDSI_OctDec_lag3|PDSI_JanMar_lag3|PDSI_Interact_lag3,site_specific,identity,unequal,diagonal and unequal,zero,42

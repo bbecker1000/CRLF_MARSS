@@ -1,0 +1,2 @@
+Model_ID,Model_Family,Fit_Status,Final_Method,Final_Convergence,Final_Iterations,N_Sites,N_Years,Total_Site_Years,Observed_Site_Years,Missing_Site_Years,Observation_Fraction,K,N_Free_C,LogLik,AIC,AICc,Residuals_Available,Run_ID,Residual_Error
+M2_Interactive_Lag3,Lagged climate interaction,CONVERGED,KEM,0,95,14,29,406,273,133,0.6724137931034483,84,42,-410.7169472868306,989.4338945736612,1065.3913413821715,TRUE,20260810_150948_M2_Interactive_Lag3,NA
