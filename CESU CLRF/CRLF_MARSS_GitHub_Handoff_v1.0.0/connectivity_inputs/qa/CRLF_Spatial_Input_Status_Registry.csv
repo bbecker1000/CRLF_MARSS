@@ -1,0 +1,20 @@
+object_name,data_type,model_status,intended_role
+MARIN_LIFEFORM_9_30,vector,USE,Original Marin lifeform classification
+san_mateo_fine_scale_veg_6_14_22,vector,USE,Original San Mateo vegetation and lifeform classification
+Marin_Impervious_2018_8_20_v11f,vector,USE,"Original Marin roads, buildings and impervious surfaces"
+San_Mateo_Validated_Ponds,vector,USE_FOR_CORRECTION,Validate freshwater pond and water classifications
+San_Mateo_be,raster,RETAIN_FOR_LATER,Original elevation reference
+San_Mateo_be_slp,raster,RETAIN_FOR_LATER,Original slope reference
+San_Mateo_gmi_1p,raster,RETAIN_FOR_LATER,Possible drainage and flowpath reference
+ThreeCountyLifeform_Merge,vector,COMPARISON_ONLY,Previously merged lifeform product
+ThreeCountyUnified,vector,COMPARISON_ONLY,Previously merged vegetation product
+Marin_Dynamic_Cost_PDSI_3,raster,COMPARISON_ONLY,Previously produced dynamic resistance raster
+Regional_D_dry_10m,raster,COMPARISON_ONLY,Previously produced dry-year output
+Regional_D_wet_10m,raster,COMPARISON_ONLY,Previously produced wet-year output
+San_Mateo_D_dry_10m,raster,COMPARISON_ONLY,Previously produced dry-year output
+San_Mateo_D_wet_10m,raster,COMPARISON_ONLY,Previously produced wet-year output
+San_Mateo_Dynamic_Cost_FinalState,raster,COMPARISON_ONLY,Previously produced dynamic resistance raster
+Three_County_Master_Friction_10m,raster,COMPARISON_ONLY,Previously produced friction raster
+Macro_Habitat_Friction_10m,raster,COMPARISON_ONLY,Previously produced friction raster
+Marin_Macro_Habitat_Friction_10m,raster,COMPARISON_ONLY,Previously produced friction raster
+Marin_Macro_Habitat_Friction_GroundTruthed_10m,raster,COMPARISON_ONLY,Previously produced modified friction raster

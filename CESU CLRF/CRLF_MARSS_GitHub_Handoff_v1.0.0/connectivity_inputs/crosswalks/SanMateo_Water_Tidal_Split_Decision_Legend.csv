@@ -1,0 +1,11 @@
+split_class,movement_group,base_cost,is_barrier,interpretation
+Freshwater_open_water,Freshwater_wetland_riparian,1,FALSE,"Freshwater pond, lake, or other open freshwater"
+Freshwater_dry_pond_bottom,Freshwater_wetland_riparian,1,FALSE,Seasonal freshwater pond bottom or freshwater mudflat
+Estuarine_transition_water,Tidal_saline_matrix,25,FALSE,Water influenced by both freshwater and tidal context
+Estuarine_transition_mudflat,Tidal_saline_matrix,25,FALSE,Mudflat influenced by both freshwater and tidal context
+Tidal_mudflat,Tidal_saline_matrix,25,FALSE,Saline or tidal mudflat with high finite resistance
+Tidal_wetland,Tidal_saline_matrix,25,FALSE,Saline wetland with high finite resistance
+Marine_open_water,Hard_marine_barrier,,TRUE,Open marine or strongly tidal water treated as impassable
+Eel_grass_marine_barrier,Hard_marine_barrier,,TRUE,Subtidal eel grass treated as impassable
+UNRESOLVED_WATER_REVIEW,UNRESOLVED_REVIEW,,FALSE,Water polygon lacking sufficient spatial evidence
+UNRESOLVED_MUDFLAT_REVIEW,UNRESOLVED_REVIEW,,FALSE,Mudflat polygon lacking sufficient spatial evidence

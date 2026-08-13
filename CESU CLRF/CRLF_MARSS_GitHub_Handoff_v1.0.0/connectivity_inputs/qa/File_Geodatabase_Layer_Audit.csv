@@ -1,0 +1,14 @@
+gdb_number,gdb_name,gdb_path,audit_status,audit_error,name,geomtype,driver,features,fields,crs
+1,Impervious_Delivery_8_20_Marin.gdb,F:/CRLF_MARSS/data/spatial/Impervious_Delivery_8_20_Marin.gdb,failed,"Open failed.
+",NA,,NA,NA,NA,
+2,Impervious_Delivery_8_20_Marin.gdb,F:/CRLF_MARSS/data/spatial/Impervious_Delivery_8_20_Marin.gdb/Impervious_Delivery_8_20_Marin.gdb,success,NA,Marin_Impervious_2018_8_20_v11f,,OpenFileGDB,228752,3,
+3,Lifeform.gdb,F:/CRLF_MARSS/data/spatial/Lifeform.gdb,failed,"Open failed.
+",NA,,NA,NA,NA,
+4,MARIN_LIFEFORM_9_30.gdb,F:/CRLF_MARSS/data/spatial/Lifeform.gdb/MARIN_LIFEFORM_9_30.gdb,success,NA,MARIN_LIFEFORM_9_30,,OpenFileGDB,28629,3,
+5,San_Mateo.gdb,F:/CRLF_MARSS/data/spatial/San_Mateo.gdb,failed,"Open failed.
+",NA,,NA,NA,NA,
+6,San_Mateo.gdb,F:/CRLF_MARSS/data/spatial/San_Mateo.gdb/San_Mateo.gdb,success,NA,san_mateo_fine_scale_veg_6_14_22,,OpenFileGDB,97580,33,
+7,UNIFIED_VEG_MAP.gdb,F:/CRLF_MARSS/data/spatial/UNIFIED_VEG_MAP.gdb,failed,"Open failed.
+",NA,,NA,NA,NA,
+8,UNIFIED_VEG_MAP.gdb,F:/CRLF_MARSS/data/spatial/UNIFIED_VEG_MAP.gdb/UNIFIED_VEG_MAP.gdb,success,NA,ThreeCountyUnified,,OpenFileGDB,405965,19,
+8,UNIFIED_VEG_MAP.gdb,F:/CRLF_MARSS/data/spatial/UNIFIED_VEG_MAP.gdb/UNIFIED_VEG_MAP.gdb,success,NA,ThreeCountyLifeform_Merge,,OpenFileGDB,415480,13,

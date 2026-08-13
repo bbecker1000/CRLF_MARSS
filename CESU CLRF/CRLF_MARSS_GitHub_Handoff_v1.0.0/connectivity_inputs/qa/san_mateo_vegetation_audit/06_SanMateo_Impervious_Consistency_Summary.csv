@@ -1,0 +1,3 @@
+metric,n_present,minimum,median,mean,maximum
+PERVIOUS_18 + IMPERVIOUS_18,97580,100,100,100,100
+Detailed components minus IMPERVIOUS_18,97580,-1,0,-0.009417913506866162,1

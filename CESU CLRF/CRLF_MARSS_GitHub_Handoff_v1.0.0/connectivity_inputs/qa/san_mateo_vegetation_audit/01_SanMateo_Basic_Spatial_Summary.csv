@@ -1,0 +1,2 @@
+source_layer,feature_count,geometry_types,empty_geometry_count,crs_epsg,crs_name,xmin,ymin,xmax,ymax
+san_mateo_fine_scale_veg_6_14_22,97580,MULTIPOLYGON,0,6420,NAD83(2011) / California zone 3 (ftUS),5975207.999812633,1865663.9996326417,6092609.9999163,2124648.1493142247

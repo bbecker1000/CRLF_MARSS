@@ -1,0 +1,73 @@
+LctGUID,LoctnID,ParkCod,Project,Dscrptn,AcCRLFB,Watrshd,Ltc_Lnt,WatrRgm,StpUTMX,StpUTMY,UtmZone,StartLt,StartLn,StopLat,StopLon,Datum,EstHErr,AccNots,Elevatn,EstVErr,Aspect,Slope,Dirctns,Commnts,Hbtt_ty,County
+{8638CE6B-4285-42E2-BE39-0162264115B8},AC01,OTHER,CRLF,Monday-Tuesday Ponds,No,Audubon Canyon,lentic,seasonal,,,,,,,,,,,,,,,,Managed by Audubon Canyon Ranch,,Marin
+{FF15B2D3-73C8-4BA4-977A-47E09547176B},AC02,OTHER,CRLF,Garden Club Canyon Pond,No,Garden Club Canyon,lentic,seasonal,,,,,,,,,,,,,,,,Managed by Audubon Canyon Ranch,,Marin
+{9B1444D8-1769-42F7-86F4-929B3BCB35DF},DC01,OTHER,CRLF,Denniston Reservoir,No,Denniston Creek,lentic,perennial,,,10,,,,,NAD83,,,,,,,,,pond,San Mateo
+{B3156E1B-EFD7-4DD9-B4AA-09C603D69EEA},EC01,GOGA,CRLF,Stinson Beach Park Spring,No,Easkoot Creek,lentic,perennial,,,10,,,,,NAD83,,,,,,,,"PEM, perennial spring",spring,Marin
+{BE112F16-6ACE-438D-96AB-20165CE894C7},EC02,GOGA,CRLF,Stinson Beach Park Ditch,No,Easkoot Creek,lentic,seasonal,,,10,,,,,NAD83,,,,,,,,deep ditch alongside HWY 1,ditch,Marin
+{FFC4728C-7538-49C4-883D-BD56954F086C},EC03,GOGA,CRLF,Easkoot Creek,No,Easkoot Creek,lotic,seasonal,531689.1,4194503.7,10,,,,,NAD83,,,,,,,,Creek within park boundaries,stream,Marin
+{439D7C94-C8C6-4790-860A-FEDAC14327ED},KC01,GOGA,CRLF,Charthouse mitigation pond,Yes,Kanoff Creek,lentic,seasonal,,,10,,,,,NAD83,,,,,,,,Caltrans mitigation wetland east of Highway One created in 2005,pond,San Mateo
+{60EC0CF2-B436-4CA6-8D97-7C420476D055},KC02,GOGA,CRLF,Charthouse wetland ditch,Yes,Kanoff Creek,both,seasonal,543173,4155759,10,,,,,NAD83,,,,,,,,,ditch,San Mateo
+{D68B2339-0443-4F2A-94B1-8F6820B4C2B5},KC03,GOGA,CRLF,Charthouse upland swale,No,Kanoff Creek,lentic,seasonal,543221,4155738,10,,,,,NAD83,,,,,,,,,meadow,San Mateo
+{7A4E9DD3-4C28-4CC3-BD99-4E19CF9EC76E},KC04,GOGA,CRLF,Rancho bridge pool,No,Kanoff Creek,lentic,seasonal,,,,,,,,,,,,,,,,Shallow pool 3m x 3m (lxw) downstream of footbridge,stream,San Mateo
+{A1996454-FCD8-47D6-B97D-546757249087},LS01,OTHER,CRLF,Horse Stable Pond,No,Laguna Salada,lentic,perennial,,,10,,,,,NAD83,,,,,,,,,pond,San Mateo
+{48FE9324-B88D-469D-AA6A-7E24CC21DB53},LS02,OTHER,CRLF,Laguna Salada Northwest shoreline,No,Laguna Salada,lentic,perennial,,,10,,,,,NAD83,,,,,,,,Sharp Park Golf Course,pond,San Mateo
+{0306738C-5AD2-470A-9E97-FDCB3F728D09},LS03,OTHER,CRLF,Laguna Salada Southwest shoreline,No,Laguna Salada,lentic,perennial,,,10,,,,,NAD83,,,,,,,,Sharp Park Golf Course,pond,San Mateo
+{0ED6197C-870D-4F18-9602-7299F4B25653},LS04,OTHER,CRLF,Horse Stable Pond Slough,No,Laguna Salada,lentic,perennial,544698,4164018,10,,,,,NAD83,,,,,,,,Sharp Park Golf Course,stream,San Mateo
+{875594EE-A7A7-4825-8AAB-EFA4E31B577B},LS05,GOGA,CRLF,"Mori Point ""Willow Pond"" nr Sanchez Creek",No,Laguna Salada,lentic,perennial,,,10,,,,,NAD83,,,,,,,,aka Pond 'A' . Constructed Fall 2004,pond,San Mateo
+{45BF7829-6FB9-4FA7-8264-4CD4626B1FBB},LS06,GOGA,CRLF,"Mori Point ""Middle Pond"" @ Mori's Pt Road",Yes,Laguna Salada,lentic,seasonal,,,10,,,,,NAD83,,,,,,,,aka Pond 'D.'Constructed Fall 2004,pond,San Mateo
+{9A52C3F3-BF30-4BF5-8431-7FD7DB238161},LS07,GOGA,CRLF,"Mori Point ""Southern Pond""",Yes,Laguna Salada,lentic,seasonal,,,10,,,,,NAD83,,,,,,,,Pond created in fall 2007,pond,San Mateo
+{789E8A07-30BD-4D75-B9CB-72C2666A15E0},LS08,GOGA,CRLF,"Mori Point ""Wetland Pond""",Yes,Laguna Salada,lentic,perennial,,,10,,,,,NAD83,,,,,,,,nr Sanchez Creek at boundary. Constructed in fall 2007 near Sanchez Creek willow riparian,pond,San Mateo
+{11EACC11-6E31-480D-B3CE-1D073BC3F2E6},LS09,GOGA,CRLF,Sanchez Creek below Fairway Drive,No,Laguna Salada,lotic,perennial,,,10,,,,,NAD83,,,,,,,,Downstream of pedestrian crossing on Sanchez Creek from Fairway Drive,stream,San Mateo
+{70F17C67-CD95-4047-9BB0-9047B3F9851B},MC01,GOGA,CRLF,Milagra Ridge Oxid. Pond,Yes,Milagra Creek,lentic,seasonal,,,10,,,,,NAD83,,,,,,,,Artificial oxidation pond created in 1960's by U.S. Army. 0.17 acres,pond,San Mateo
+{E70B5ABA-93F1-4437-B5FF-97F162161FC6},OL01,PORE,CRLF,Hagmaier South Pond,Yes,Olema Creek,lentic,perennial,,,10,,,,,NAD83,,GIS map,,,,,,Perennial stock pond,pond,Marin
+{6EA322E8-9241-4B80-9564-610EED972C58},OL02,PORE,CRLF,Strain Hill Pond,No,Olema Creek,lentic,perennial,,,10,,,,,NAD83,,GIS map,,,,,,Perennial stock pond,pond,Marin
+{70134D05-3AE0-45FC-B06D-2EF7A99A469D},OV01,GOGA,CRLF,Oakwood Pond,No,Oakwood Valley,lentic,seasonal,,,10,,,,,NAD83,,,,,,,,Seasonal pond heavily used by off leash dogs,pond,Marin
+{34D12FE2-DED1-42A0-8CAF-138FD1B1A6D1},RC01,GOGA,CRLF,Big Lagoon Environs @ GG weir,No,Redwood Creek,lentic,perennial,537544,4190559,,,,,,,,,,,,,,"USGS P143A, ditch from Green Gulch Reservoir labeled as Ditch 3 in PWA Big Lagoon report",marsh,Marin
+{BBC3C535-1802-495B-8905-DD20CA28CD74},RC02,GOGA,CRLF,Big Lagoon Environs @ GG wetland,No,Redwood Creek,lentic,seasonal,537472,4190588,10,,,,,NAD83,,,,,,,,"USGS P143B, wetlands labeled as Pasture B in PWA Big Lagoon report",marsh,Marin
+{C8DC7D4D-53A3-4D2B-B99D-4FAEEFA08878},RC03,GOGA,CRLF,Big Lagoon Environs @ GG xditch,No,Redwood Creek,lentic,seasonal,537463,4190676,10,,,,,NAD83,,,,,,,,"Adj to USGS P143C, ditch and adj flooded areas. Wetlands labeled as Pasture A/Ditch 1 in PWA Big Lagoon report.",ditch,Marin
+{69A84549-BEB1-41D2-BFA6-A848F14E1EAA},RC04,GOGA,CRLF,Big Lagoon Environs @ former picnic area,No,Redwood creek,lentic,seasonal,,,10,,,,,NAD83,,,,,,,,Seasonal wetlands adjacent to the Muir Beach parking lot,marsh,Marin
+{38D1698D-7B23-4388-9002-8190D7D65562},RC05,GOGA,CRLF,Big Lagoon Environs @ RW creek backwater,No,Redwood Creek,lentic,perennial,537396,4190706,10,,,,,NAD83,,,,,,,,This backwater is part of USGS P161B,stream,Marin
+{09101855-FB21-4A42-AD04-F83AEF1E3E9E},RC06,OTHER,CRLF,Green Gulch Pond-Zendo,No,Redwood Creek,lentic,perennial,,,10,,,,,NAD83,,,,,,,,Private. Green Gulch Farms and Zen Center. Irrigation pond on mainstem creek,pond,Marin
+{A6D661BC-6889-4AEB-A65E-E3C1DFEE1882},RC07,GOGA,CRLF,Banducci Frog Pond,Yes,Redwood Creek,lentic,perennial,,,10,,,,,NAD83,,,,,,,,Excavated as mitigation pond in fall 2007,pond,Marin
+{F4123FEF-BD0F-47F9-9E64-986CE46FDB62},RC08,OTHER,CRLF,Green Gulch Hillside Pond-East,No,Redwood Creek,lentic,perennial,,,10,,,,,NAD83,,,,,,,,USGS P-302. Private. Green Gulch Farms and Zen Center. Irrigation pond,pond,Marin
+{904ED54A-BBC0-4C91-9D43-60000830A40F},RC09,OTHER,CRLF,Green Gulch Hillside Pond-West,No,Redwood Creek,lentic,perennial,,,10,,,,,NAD83,,,,,,,,USGS P-303. Private. Green Gulch Farms and Zen Center. Irrigation pond,pond,Marin
+{B5A97887-4C85-4F20-AB53-21C6D8021DDE},RC10,GOGA,CRLF,2009 Frog Pond,Yes,Redwood Creek,lentic,seasonal,,,10,,,,,wgs84,,,,,,,,Pond created in summer 2009 in GreenGulch pasture,pond,Marin
+{62A4D692-E30D-44C0-BCC5-2D66B2885683},RC11,GOGA,CRLF,2010 Frog Pond,Yes,Redwood Creek,lentic,seasonal,,,10,,,,,wgs84,,,,,,,,Pond created summer 2010 in Green Gulch Pasture,pond,Marin
+{CA3037A3-E46E-418F-9C7C-A8605B98C9E0},RC12,GOGA,CRLF,old GG culvert,No,Redwood Creek,lentic,seasonal,,,10,,,,,wgs84,,,,,,,,Ponded area upstream of levee road culvert.,marsh,Marin
+{FA20A18F-C29F-450F-82C6-923F143850DB},RC13,GOGA,CRLF,2011 off-channel pond,Yes,Redwood Creek,lentic,perennial,,,10,,,,,NAD83,,,,,,,,Backwater pond created in summer 2011. Inflow from reservoir at head. Seasonally connected at bottom to backwater. UTM coord for center of pond,pond,Marin
+{FE88172B-51ED-4951-A55E-77555A67F8C4},RC14,GOGA,CRLF,2011 backwater (a),No,Redwood Creek,lentic,perennial,,,10,,,,,NAD83,,,,,,,,,marsh,Marin
+{079DDA9B-7F31-417B-A3BA-50152929E6A2},RC15,GOGA,CRLF,2011 backwater (b),Yes,Redwood Creek,lentic,seasonal,,,10,,,,,NAD83,,,,,,,,,marsh,Marin
+{9305FF83-3AE3-4F05-810C-68CD79F8A510},RC16,GOGA,CRLF,Side channel 6 backwater,No,Redwood Creek,lentic,seasonal,,,10,,,,,NAD83,,,,,,,,,stream,Marin
+{87AD60D4-1A29-495D-AB76-F6EC449A68ED},RC17,GOGA,CRLF,Side channel 5 ditch,No,Redwood Creek,both,seasonal,,,10,,,,,NAD83,,,,,,,,,ditch,Marin
+{2FE35ECB-FD44-4B30-A80F-EB1B5CC0C16A},RC18,GOGA,CRLF,Original channel backwater,No,Redwood Creek,lentic,perennial,,,10,,,,,NAD83,,,,,,,,,pond,Marin
+{D5ABBFD5-73C1-4573-8455-043C97088802},RC19,GOGA,CRLF,Side channel 4 backwater,No,Redwood Creek,lentic,seasonal,,,10,,,,,NAD83,,,,,,,,,stream,Marin
+{A9DA8220-25DA-449C-A2DA-67DE725E40C6},RC20,GOGA,CRLF,Expanded tidal lagoon,Yes,Redwood Creek,both,perennial,,,10,,,,,NAD83,,,,,,,,Expanded tidal lagoon created in 2009,lagoon,Marin
+{13614D7F-A6D1-42C8-977F-1417708D4DEA},RC21,GOGA,CRLF,Tidal lagoon,Yes,Redwood Creek,both,perennial,,,10,,,,,NAD83,,,,,,,,Actual tidal lagoon,lagoon,Marin
+{0C135EC8-2C5C-4E79-A5EB-96F6EE07A633},RC22,GOGA,CRLF,Banducci ditch,No,Redwood Creek,both,seasonal,,,10,,,,,NAD83,,,,,,,,"shallow, seasonally flooded wetland",ditch,Marin
+{55E0FDB2-CFED-44F9-B8A9-78E9D98688D1},RC23,GOGA,CRLF,Banducci Reservoir,No,Redwood Creek,lentic,seasonal,,,10,,,,,wgs84,,,,,,,,Artificial water supply pond (abandoned) upslope from Amadeo Banducci residence,pond,Marin
+{F7729688-49DF-4C82-8321-20E08CC8C036},RC24,GOGA,CRLF,Kaashi Trail wetland,Yes,Redwood Creek,lentic,seasonal,,,10,,,,,NAD83,,,,,,,,"shallow, seasonally flooded wetland adjacent to trail",meadow,Marin
+{AAF8D862-E572-4664-BD86-689ACBC6A97E},RC25,GOGA,CRLF,S5 floodplain wetland,Yes,Redwood Creek,lentic,seasonal,,,10,,,,,NAD83,,,,,,,,"shallow, seasonally flooded wetland between S5 ditch and 2009 frog pond, USGS P584, Pasture A in PWA report",meadow,Marin
+{9BD393A1-58BA-4A7D-8C51-DE6D3764FBBB},RC26,GOGA,CRLF,Horse corral,No,Redwood Creek,lentic,seasonal,,,10,,,,,NAD83,,,,,,,,Seasonally flooded wetland used by Oceanriders as corral,,Marin
+{997700D8-318F-404B-81B6-571698FE9288},RC27,GOGA,CRLF,Big Lagoon Environs @ backdune swale and side channel at foot bridge,No,Redwood Creek,lentic,seasonal,,,10,,,,,NAD83,,,,,,,,seasonal backdune swale and intermittent side channel from Redwood Creek below footbridge,marsh,Marin
+{0C88B627-C51D-44D1-A5C7-25009C0B8D17},RC28,GOGA,CRLF,Big Lagoon Environs @ Pasture C,No,Redwood Creek,lentic,seasonal,,,10,,,,,NAD83,,,,,,,,"seasonal, east of levee and Coastal Trail and ag ditch, USGS P143D, Pasture C in PWA report",marsh,Marin
+{98CDEFAC-8380-43FD-90DC-E5B818FF7B66},RC29,GOGA,CRLF,Big Lagoon Environs- Horse pasture,No,Redwood Creek,lentic,seasonal,537429,4190388,10,,,,,NAD83,,,,,,,,"Coordinates are approximate rectangle corners from 1993 aerial. Includes RC01,02,03, 28. USGS P584,580,143A-D",marsh,Marin
+{E9E645C3-A9AC-409A-82A1-EA4402F55867},RL01,GOGA,CRLF,Gerbode Creek Wetland,No,Rodeo Lagoon,lentic,seasonal,,,10,,,,,NAD83,,,,,,,,"Seasonally flooded wetland caused by trail/road ""dam"" at intersection of Miwok and Bobcat trails",marsh,Marin
+{4EC1D4DC-CC1F-4D85-9C58-D15B07F859ED},RL02,GOGA,CRLF,Rodeo Lake,Yes,Rodeo Lagoon,lentic,perennial,,,,,,,,NAD83,,,,,,,,"Perennial, artificial freshwater lake created by U.S. Army in 1930's",pond,Marin
+{3DF63B35-539B-4BA5-9032-E33EAB588C94},RL03,GOGA,CRLF,Lower Rodeo Creek @ Rodeo Lake,No,Rodeo Lagoon,lotic,seasonal,,,10,,,,,NAD83,,,,,,,,at confluence with Rodeo Lake,stream,Marin
+{D253A41D-9F60-4933-A707-096FB5FA8AEB},RL04,GOGA,CRLF,Rodeo Lagoon-East shore,No,Rodeo Lagoon,lentic,perennial,541467,4187130,10,,,,,NAD83,,,,,,,,,lagoon,Marin
+{6A36C9F1-7848-424D-A39C-146B0EFEC7C9},RL06,GOGA,CRLF,Surfer Lot wetland,No,Rodeo Lagoon,lentic,seasonal,540523,4187307,10,,,,,NAD83,,,,,,,,Former dirt parking lot and emergent marsh,marsh,Marin
+{E37782B6-A1F3-4E7B-BA23-EB0FA1343E82},RL07,GOGA,CRLF,Battery Townsley gun pit,No,Rodeo Lagoon,lentic,perennial,,,,,,,,,,,340,,,,,Artificial pond in gun pit,pond,Marin
+{EC762452-F72E-4BE9-BF27-508217070904},RL08,GOGA,CRLF,Rodeo Lagoon-Bunker Rd between T-1111 and Field Rd,No,Rodeo Lagoon,,,541927,4187201,10,,,,,NAD83,,,,,,,,Road between T-1111 and Field Rd (sewer lift station),road,Marin
+{0AF6496E-7CDA-4F08-B4BD-EB7F084C41E1},RT01,GOGA,CRLF,Intersection of Miwok Trail and Rodeo Valley Trail,No,Rodeo Lagoon,lentic,seasonal,542403,4187649,10,,,,,NAD83,,,30,,,,,Fire Road crossing over creek,,Marin
+{75642347-066C-40F2-9002-D57B9AB236B4},RT02,GOGA,CRLF,Seep on Rodeo Valley Trail,No,Rodeo Lagoon,lentic,seasonal,543423,4187687,10,,,,,NAD83,,,150,,,,,"Seep that crossed trail, now flows through trenches across trail",spring,Marin
+{FFCD7B18-4FCB-4814-BBAA-D54800E81D4E},SB01,GOGA,CRLF,Sutro Bath,No,Sutro Bath,lentic,perennial,,,10,,,,,NAD83,,,,,,,,,spring,San Francisco
+{04E8BA46-1D60-49A8-9805-E7761EC2C9D1},SM01,GOGA,CRLF,Sweeney Ridge-South Meadow,No,San Mateo Creek,lentic,seasonal,,,10,,,,,NAD83,,,,,,,,,meadow,San Mateo
+{C52CAED8-C75F-42E9-8FD7-37FC3955D447},SP01,GOGA,CRLF,Sweeney Ridge-Discovery Site,No,San Pedro Creek,lentic,seasonal,,,10,,,,,NAD83,,,,,,,,,spring,San Mateo
+{082EB186-91CA-480C-967E-06BED185994B},TV01,GOGA,CRLF,Tennessee Valley Haypress Pond,No,Tennessee Valley,lentic,perennial,,,10,,,,,NAD83,,,,,,,,Pond has been removed in 2003,pond,Marin
+{3EDCFC32-6679-4AFF-A0E7-3E98BC1D68FE},TV02,GOGA,CRLF,Tennessee Valley Cove Pond,Yes,Tennessee Valley,lentic,perennial,,,10,,,,,NAD83,,,,,,,,"Artificial pond created in 1950's. 3- to 12-ft deep, 2.7 ac-ft perennial freshwater impoundment",pond,San Mateo
+{502E06DE-ACDB-4A04-BC2A-1EE2D154F95F},TV03,GOGA,CRLF,Backdoor Pond,No,Tennessee Valley,lentic,perennial,,,10,,,,,NAD83,,,,,,,,,pond,Marin
+{FB22867A-2142-4EB4-A5A0-F83B0729DE37},TV04,GOGA,CRLF,Tennessee Valley Creek (Elk Crk),No,Tennessee Valley,lotic,seasonal,540577,4189305,10,,,,,NAD83,,,,,,,,Above Tenn. Cove Marsh,stream,Marin
+{4450A7E8-6B34-4783-A58E-791D19CEC4E7},TV05,GOGA,CRLF,Tennessee Valley Cove Marsh,No,Tennessee Valley,lentic,seasonal,,,10,,,,,NAD83,,,,,,,,Marsh upstream of Tenn. Cove Pond,marsh,Marin
+{4AF38B79-3FB1-4403-8FE7-B7D6852B8BCD},TV06,GOGA,CRLF,Tennessee Valley Cove Slough,Yes,Tennessee Valley,lentic,perennial,539481,4188428,10,,,,,NAD83,,,,,,,,Slough below Tenn. Cove Pond,slough,Marin
+{D17FA224-44DE-4E05-B8B5-0AE4190545A2},TV07,GOGA,CRLF,Haypress Creek,No,Tennessee Valley,lotic,seasonal,540270,4190188,10,,,,,NAD83,,,,,,,,intermittent creek channel below Haypress campground,stream,Marin
+{A85BB11F-38ED-4D60-A8C0-5575A2797ECF},WG01,GOGA,CRLF,Bolinas-Fairfax Wetland,Yes,Wilkins Gulch,lentic,seasonal,,,10,,,,,NAD83,,,,,,,,"Seasonal, sometimes brackish wetland adjacent to Hwy 1 and Bolinas-Fairfax Rd intersection",marsh,Marin

@@ -1,0 +1,9 @@
+dataset,candidate_field
+Marin lifeform,LIFEFORM_18
+San Mateo vegetation,MAP_CLASS_18
+San Mateo vegetation,LIFEFORM_18
+San Mateo vegetation,FOREST_LIFEFORM_18
+San Mateo vegetation,IMPERVIOUS_18
+San Mateo vegetation,PAVED_RD_18
+San Mateo vegetation,BUILDING_18
+Marin impervious,Class

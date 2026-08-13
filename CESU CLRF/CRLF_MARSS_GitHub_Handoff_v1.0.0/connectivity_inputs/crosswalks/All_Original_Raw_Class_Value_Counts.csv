@@ -1,0 +1,449 @@
+dataset,field,value,n_features
+Marin lifeform,LIFEFORM_18,Developed,5034
+Marin lifeform,LIFEFORM_18,Native Shrub,4845
+Marin lifeform,LIFEFORM_18,Herbaceous,4130
+Marin lifeform,LIFEFORM_18,Native Forest,2947
+Marin lifeform,LIFEFORM_18,Freshwater Wetland,1721
+Marin lifeform,LIFEFORM_18,Shrub Fragment,1669
+Marin lifeform,LIFEFORM_18,Water,1603
+Marin lifeform,LIFEFORM_18,Forest Fragment,1366
+Marin lifeform,LIFEFORM_18,Tidal Wetland,1221
+Marin lifeform,LIFEFORM_18,Non-native Forest,1193
+Marin lifeform,LIFEFORM_18,Channel,942
+Marin lifeform,LIFEFORM_18,Mudflat,827
+Marin lifeform,LIFEFORM_18,Non-native Shrub,321
+Marin lifeform,LIFEFORM_18,Non-native Herbaceous,292
+Marin lifeform,LIFEFORM_18,Barren,214
+Marin lifeform,LIFEFORM_18,Orchard or Grove,63
+Marin lifeform,LIFEFORM_18,Annual Cropland,57
+Marin lifeform,LIFEFORM_18,Vineyard,56
+Marin lifeform,LIFEFORM_18,Eel Grass,43
+Marin lifeform,LIFEFORM_18,Intensively Managed Hayfield,25
+Marin lifeform,LIFEFORM_18,Aquatic Vegetation,19
+Marin lifeform,LIFEFORM_18,Irrigated Pasture,17
+Marin lifeform,LIFEFORM_18,Nursery or Ornamental Horticulture Area,12
+Marin lifeform,LIFEFORM_18,Major Road,5
+Marin lifeform,LIFEFORM_18,Perennial Cropland,4
+Marin lifeform,LIFEFORM_18,Aquaculture,3
+San Mateo vegetation,MAP_CLASS_18,Sequoia sempervirens Alliance,21331
+San Mateo vegetation,MAP_CLASS_18,Baccharis pilularis Alliance,13994
+San Mateo vegetation,MAP_CLASS_18,Pseudotsuga menziesii – Notholithocarpus densiflorus / Vaccinium ovatum Association,9148
+San Mateo vegetation,MAP_CLASS_18,Quercus agrifolia Alliance,9036
+San Mateo vegetation,MAP_CLASS_18,Developed,5704
+San Mateo vegetation,MAP_CLASS_18,Californian Annual & Perennial Grassland Mapping Unit,4270
+San Mateo vegetation,MAP_CLASS_18,Salix lasiolepis Alliance,3332
+San Mateo vegetation,MAP_CLASS_18,Mudflat/Dry Pond Bottom Mapping Unit,2481
+San Mateo vegetation,MAP_CLASS_18,Umbellularia californica Mapping Unit,2315
+San Mateo vegetation,MAP_CLASS_18,Sarcocornia pacifica (Salicornia depressa) Alliance,2108
+San Mateo vegetation,MAP_CLASS_18,Forest Fragment,1891
+San Mateo vegetation,MAP_CLASS_18,Pinus radiata Plantation Provisional Semi-Natural Association,1843
+San Mateo vegetation,MAP_CLASS_18,Water,1647
+San Mateo vegetation,MAP_CLASS_18,Toxicodendron diversilobum – (Baccharis pilularis) Association,1490
+San Mateo vegetation,MAP_CLASS_18,Shrub Fragment,1207
+San Mateo vegetation,MAP_CLASS_18,Acer macrophyllum – Alnus rubra Alliance,1139
+San Mateo vegetation,MAP_CLASS_18,Notholithocarpus densiflorus Alliance,1124
+San Mateo vegetation,MAP_CLASS_18,"Eucalyptus (globulus, camaldulensis) Provisional Semi-Natural Assocation",973
+San Mateo vegetation,MAP_CLASS_18,Non-native Forest,972
+San Mateo vegetation,MAP_CLASS_18,Mesic Coastal Scrub Mapping Unit,890
+San Mateo vegetation,MAP_CLASS_18,Frangula californica ssp. californica – Baccharis pilularis / Scrophularia californica Association,836
+San Mateo vegetation,MAP_CLASS_18,Quercus chrysolepis (tree) Alliance,829
+San Mateo vegetation,MAP_CLASS_18,Hesperocyparis macrocarpa Ruderal Provisional Semi-Natural Association,821
+San Mateo vegetation,MAP_CLASS_18,Spartina foliosa Assocation,653
+San Mateo vegetation,MAP_CLASS_18,Gaultheria shallon – Rubus (ursinus) Alliance,577
+San Mateo vegetation,MAP_CLASS_18,Artemisia californica – (Salvia leucophylla) Alliance,474
+San Mateo vegetation,MAP_CLASS_18,Grindelia stricta Provisional Association,402
+San Mateo vegetation,MAP_CLASS_18,Adenostoma fasciculatum Alliance,375
+San Mateo vegetation,MAP_CLASS_18,"Quercus (agrifolia, douglasii, garryana, kelloggii, lobata, wislizeni) Alliance",354
+San Mateo vegetation,MAP_CLASS_18,"Arctostaphylos (crustacea, tomentosa) Alliance",323
+San Mateo vegetation,MAP_CLASS_18,Distichlis spicata Alliance,313
+San Mateo vegetation,MAP_CLASS_18,Aesculus californica Alliance,284
+San Mateo vegetation,MAP_CLASS_18,Arbutus menziesii Alliance,264
+San Mateo vegetation,MAP_CLASS_18,Ceanothus thyrsiflorus Alliance,242
+San Mateo vegetation,MAP_CLASS_18,Arid West Freshwater Emergent Marsh Group,213
+San Mateo vegetation,MAP_CLASS_18,Pinus attenuata Alliance,210
+San Mateo vegetation,MAP_CLASS_18,"Arctostaphylos (nummularia, sensitiva) – Chrysolepis chrysophylla Alliance",200
+San Mateo vegetation,MAP_CLASS_18,Quercus lobata Mapping Unit,198
+San Mateo vegetation,MAP_CLASS_18,Pinus muricata – Pinus radiata Alliance,192
+San Mateo vegetation,MAP_CLASS_18,Annual Cropland,186
+San Mateo vegetation,MAP_CLASS_18,Vancouverian Freshwater Wet Meadow & Marsh Group,182
+San Mateo vegetation,MAP_CLASS_18,Barren and Sparsely Vegetated,176
+San Mateo vegetation,MAP_CLASS_18,Quercus douglasii Alliance,160
+San Mateo vegetation,MAP_CLASS_18,Prunus ilicifolia – Heteromeles arbutifolia – Ceanothus spinosus Alliance,156
+San Mateo vegetation,MAP_CLASS_18,Arctostaphylos montarensis Association,138
+San Mateo vegetation,MAP_CLASS_18,Non-native Shrub,133
+San Mateo vegetation,MAP_CLASS_18,Rubus spectabilis – Morella californica Alliance,132
+San Mateo vegetation,MAP_CLASS_18,Mesembryanthemum spp. – Carpobrotus spp. Semi-Natural Alliance,127
+San Mateo vegetation,MAP_CLASS_18,Vineyard,127
+San Mateo vegetation,MAP_CLASS_18,Corylus cornuta / Polystichum munitum Association,120
+San Mateo vegetation,MAP_CLASS_18,Non-native Herbaceous,119
+San Mateo vegetation,MAP_CLASS_18,Bolboschoenus maritimus Alliance,111
+San Mateo vegetation,MAP_CLASS_18,Eriophyllum staechadifolium – Erigeron glaucus – Eriogonum latifolium Alliance,104
+San Mateo vegetation,MAP_CLASS_18,"Cornus sericea – Salix (lasiolepis, exigua) Association",81
+San Mateo vegetation,MAP_CLASS_18,Salix lucida ssp. lasiandra Association,80
+San Mateo vegetation,MAP_CLASS_18,Orchard or Grove,69
+San Mateo vegetation,MAP_CLASS_18,Conium maculatum – Foeniculum vulgare Semi-Natural Alliance,67
+San Mateo vegetation,MAP_CLASS_18,Quercus kelloggii Alliance,62
+San Mateo vegetation,MAP_CLASS_18,"Cortaderia (jubata, selloana) Semi-Natural Alliance",55
+San Mateo vegetation,MAP_CLASS_18,Alnus rhombifolia Alliance,50
+San Mateo vegetation,MAP_CLASS_18,Nursery or Ornamental Horticulture Area,46
+San Mateo vegetation,MAP_CLASS_18,Perennial Agriculture,37
+San Mateo vegetation,MAP_CLASS_18,Artemisia pycnocephala Association,32
+San Mateo vegetation,MAP_CLASS_18,Acer negundo / (Rubus ursinus) Association,30
+San Mateo vegetation,MAP_CLASS_18,Quercus wislizeni – Quercus chrysolepis (shrub) Alliance,28
+San Mateo vegetation,MAP_CLASS_18,"Californian Cliff, Scree & Rock Vegetation Group",25
+San Mateo vegetation,MAP_CLASS_18,Genista monspessulana Semi-Natural Association,24
+San Mateo vegetation,MAP_CLASS_18,Quercus durata Alliance,19
+San Mateo vegetation,MAP_CLASS_18,Ulex europaeus Provisional Semi-Natural Association,19
+San Mateo vegetation,MAP_CLASS_18,Populus trichocarpa Alliance,18
+San Mateo vegetation,MAP_CLASS_18,Hypericum canariense Provisional Semi-Natural Association,15
+San Mateo vegetation,MAP_CLASS_18,Acacia spp. – Grevillea spp. – Leptospermum laevigatum Provisional Semi-Natural Alliance,14
+San Mateo vegetation,MAP_CLASS_18,Acer macrophyllum Mapping Unit,13
+San Mateo vegetation,MAP_CLASS_18,"Cotoneaster (lacteus, pannosus) Provisional Semi-Natural Association",13
+San Mateo vegetation,MAP_CLASS_18,Rubus armeniacus Semi-Natural Association,13
+San Mateo vegetation,MAP_CLASS_18,Pacific Coastal Beach & Dune Mapping Unit,12
+San Mateo vegetation,MAP_CLASS_18,Ammophila arenaria Semi-Natural Alliance,11
+San Mateo vegetation,MAP_CLASS_18,Lupinus chamissonis – Ericameria ericoides Alliance,11
+San Mateo vegetation,MAP_CLASS_18,Salix gooddingii – Salix laevigata Alliance,10
+San Mateo vegetation,MAP_CLASS_18,Major Road,9
+San Mateo vegetation,MAP_CLASS_18,Acacia melanoxylon Provisional Semi-Natural Association,8
+San Mateo vegetation,MAP_CLASS_18,Lupinus arboreus Alliance,8
+San Mateo vegetation,MAP_CLASS_18,Irrigated Pasture,7
+San Mateo vegetation,MAP_CLASS_18,Delairea odorata Semi-Natural Association,6
+San Mateo vegetation,MAP_CLASS_18,Lotus scoparius – Lupinus albifrons – Eriodictyon spp. Alliance,6
+San Mateo vegetation,MAP_CLASS_18,Atriplex prostrata – Cotula coronopifolia Semi-Natural Alliance,5
+San Mateo vegetation,MAP_CLASS_18,Ceanothus cuneatus Alliance,5
+San Mateo vegetation,MAP_CLASS_18,Quercus wislizeni – Quercus parvula (tree) Alliance,5
+San Mateo vegetation,MAP_CLASS_18,"Schinus (molle, terebinthifolius) – Myoporum laetum Semi-natural Alliance",5
+San Mateo vegetation,MAP_CLASS_18,Cercocarpus montanus Alliance,4
+San Mateo vegetation,MAP_CLASS_18,Intensively Managed Hayfield,4
+San Mateo vegetation,MAP_CLASS_18,Salix exigua Alliance,4
+San Mateo vegetation,MAP_CLASS_18,"Cakile (edentula, maritima) Provisional Semi-Natural Alliance",3
+San Mateo vegetation,MAP_CLASS_18,Garrya elliptica Provisional Association,3
+San Mateo vegetation,MAP_CLASS_18,"Zostera (marina, pacifica) Pacific Aquatic Alliance",3
+San Mateo vegetation,MAP_CLASS_18,Carthamus lanatus Invasive Mapping Unit,2
+San Mateo vegetation,MAP_CLASS_18,"Diplacus (aurantiacus, puniceus) Association",2
+San Mateo vegetation,MAP_CLASS_18,Quercus agrifolia / Salix lasiolepis Association,2
+San Mateo vegetation,MAP_CLASS_18,Salix hookeriana – Salix sitchensis – Spiraea douglasii Alliance,2
+San Mateo vegetation,MAP_CLASS_18,Calamagrostis nutkaensis Alliance,1
+San Mateo vegetation,MAP_CLASS_18,"Ceanothus (oliganthus, tomentosus) Alliance",1
+San Mateo vegetation,MAP_CLASS_18,"Hesperocyparis abramsiana / Arctostaphylos (crustacea, silvicola) Association",1
+San Mateo vegetation,MAP_CLASS_18,Heterotheca sessiliflora – Danthonia californica Provisional Association,1
+San Mateo vegetation,MAP_CLASS_18,Juglans hindsii and Hybrids Special Stands and Semi-Natural Alliance,1
+San Mateo vegetation,MAP_CLASS_18,Populus fremontii – Fraxinus velutina – Salix gooddingii Alliance,1
+San Mateo vegetation,MAP_CLASS_18,Western North American Freshwater Aquatic Vegetation Macrogroup,1
+San Mateo vegetation,LIFEFORM_18,Forest,52053
+San Mateo vegetation,LIFEFORM_18,Shrub,21484
+San Mateo vegetation,LIFEFORM_18,Developed,5704
+San Mateo vegetation,LIFEFORM_18,Herbaceous,4781
+San Mateo vegetation,LIFEFORM_18,Riparian Forest,4750
+San Mateo vegetation,LIFEFORM_18,Tidal Wetland,3595
+San Mateo vegetation,LIFEFORM_18,Mudflat,2481
+San Mateo vegetation,LIFEFORM_18,Water,1647
+San Mateo vegetation,LIFEFORM_18,Ag,476
+San Mateo vegetation,LIFEFORM_18,Freshwater Herbaceous Wetland,396
+San Mateo vegetation,LIFEFORM_18,Barren and Sparsely Vegetated,201
+San Mateo vegetation,LIFEFORM_18,Major Road,9
+San Mateo vegetation,LIFEFORM_18,Eel Grass,3
+San Mateo vegetation,FOREST_LIFEFORM_18,Conifer,31703
+San Mateo vegetation,FOREST_LIFEFORM_18,Shrub,21400
+San Mateo vegetation,FOREST_LIFEFORM_18,Evergreen Hardwood,13573
+San Mateo vegetation,FOREST_LIFEFORM_18,Developed,5704
+San Mateo vegetation,FOREST_LIFEFORM_18,Riparian Forest,4750
+San Mateo vegetation,FOREST_LIFEFORM_18,Herbaceous,4512
+San Mateo vegetation,FOREST_LIFEFORM_18,Non-native Forest,3815
+San Mateo vegetation,FOREST_LIFEFORM_18,Tidal Wetland,3595
+San Mateo vegetation,FOREST_LIFEFORM_18,Mudflat,2481
+San Mateo vegetation,FOREST_LIFEFORM_18,Forest,1891
+San Mateo vegetation,FOREST_LIFEFORM_18,Water,1647
+San Mateo vegetation,FOREST_LIFEFORM_18,Deciduous Hardwood,1071
+San Mateo vegetation,FOREST_LIFEFORM_18,Freshwater Herbaceous Wetland,396
+San Mateo vegetation,FOREST_LIFEFORM_18,Non-native Herbaceous,269
+San Mateo vegetation,FOREST_LIFEFORM_18,Barren and Sparsely Vegetated,201
+San Mateo vegetation,FOREST_LIFEFORM_18,Annual Cropland,186
+San Mateo vegetation,FOREST_LIFEFORM_18,Vineyard,127
+San Mateo vegetation,FOREST_LIFEFORM_18,Non-native Shrub,84
+San Mateo vegetation,FOREST_LIFEFORM_18,Orchard or Grove,69
+San Mateo vegetation,FOREST_LIFEFORM_18,Nursery or Ornamental Horticulture Area,46
+San Mateo vegetation,FOREST_LIFEFORM_18,Perennial Agriculture,37
+San Mateo vegetation,FOREST_LIFEFORM_18,Major Road,9
+San Mateo vegetation,FOREST_LIFEFORM_18,Irrigated Pasture,7
+San Mateo vegetation,FOREST_LIFEFORM_18,Intensively Managed Hayfield,4
+San Mateo vegetation,FOREST_LIFEFORM_18,Eel Grass,3
+San Mateo vegetation,IMPERVIOUS_18,0,61655
+San Mateo vegetation,IMPERVIOUS_18,1,3803
+San Mateo vegetation,IMPERVIOUS_18,2,3071
+San Mateo vegetation,IMPERVIOUS_18,3,2799
+San Mateo vegetation,IMPERVIOUS_18,4,2485
+San Mateo vegetation,IMPERVIOUS_18,5,2316
+San Mateo vegetation,IMPERVIOUS_18,6,2063
+San Mateo vegetation,IMPERVIOUS_18,7,1824
+San Mateo vegetation,IMPERVIOUS_18,8,1504
+San Mateo vegetation,IMPERVIOUS_18,9,1363
+San Mateo vegetation,IMPERVIOUS_18,10,1195
+San Mateo vegetation,IMPERVIOUS_18,11,1035
+San Mateo vegetation,IMPERVIOUS_18,12,912
+San Mateo vegetation,IMPERVIOUS_18,13,849
+San Mateo vegetation,IMPERVIOUS_18,14,665
+San Mateo vegetation,IMPERVIOUS_18,15,593
+San Mateo vegetation,IMPERVIOUS_18,16,536
+San Mateo vegetation,IMPERVIOUS_18,17,416
+San Mateo vegetation,IMPERVIOUS_18,18,383
+San Mateo vegetation,IMPERVIOUS_18,19,363
+San Mateo vegetation,IMPERVIOUS_18,20,269
+San Mateo vegetation,IMPERVIOUS_18,21,268
+San Mateo vegetation,IMPERVIOUS_18,22,235
+San Mateo vegetation,IMPERVIOUS_18,23,211
+San Mateo vegetation,IMPERVIOUS_18,25,185
+San Mateo vegetation,IMPERVIOUS_18,24,175
+San Mateo vegetation,IMPERVIOUS_18,51,171
+San Mateo vegetation,IMPERVIOUS_18,53,163
+San Mateo vegetation,IMPERVIOUS_18,26,161
+San Mateo vegetation,IMPERVIOUS_18,50,157
+San Mateo vegetation,IMPERVIOUS_18,52,155
+San Mateo vegetation,IMPERVIOUS_18,55,154
+San Mateo vegetation,IMPERVIOUS_18,57,153
+San Mateo vegetation,IMPERVIOUS_18,47,150
+San Mateo vegetation,IMPERVIOUS_18,48,150
+San Mateo vegetation,IMPERVIOUS_18,49,150
+San Mateo vegetation,IMPERVIOUS_18,44,148
+San Mateo vegetation,IMPERVIOUS_18,45,148
+San Mateo vegetation,IMPERVIOUS_18,56,144
+San Mateo vegetation,IMPERVIOUS_18,54,143
+San Mateo vegetation,IMPERVIOUS_18,42,141
+San Mateo vegetation,IMPERVIOUS_18,58,140
+San Mateo vegetation,IMPERVIOUS_18,27,138
+San Mateo vegetation,IMPERVIOUS_18,40,137
+San Mateo vegetation,IMPERVIOUS_18,43,136
+San Mateo vegetation,IMPERVIOUS_18,41,135
+San Mateo vegetation,IMPERVIOUS_18,30,132
+San Mateo vegetation,IMPERVIOUS_18,59,130
+San Mateo vegetation,IMPERVIOUS_18,29,129
+San Mateo vegetation,IMPERVIOUS_18,46,128
+San Mateo vegetation,IMPERVIOUS_18,31,127
+San Mateo vegetation,IMPERVIOUS_18,37,126
+San Mateo vegetation,IMPERVIOUS_18,38,125
+San Mateo vegetation,IMPERVIOUS_18,36,122
+San Mateo vegetation,IMPERVIOUS_18,35,120
+San Mateo vegetation,IMPERVIOUS_18,28,119
+San Mateo vegetation,IMPERVIOUS_18,60,118
+San Mateo vegetation,IMPERVIOUS_18,61,118
+San Mateo vegetation,IMPERVIOUS_18,39,117
+San Mateo vegetation,IMPERVIOUS_18,34,115
+San Mateo vegetation,IMPERVIOUS_18,32,114
+San Mateo vegetation,IMPERVIOUS_18,63,108
+San Mateo vegetation,IMPERVIOUS_18,62,105
+San Mateo vegetation,IMPERVIOUS_18,33,103
+San Mateo vegetation,IMPERVIOUS_18,65,94
+San Mateo vegetation,IMPERVIOUS_18,64,86
+San Mateo vegetation,IMPERVIOUS_18,68,76
+San Mateo vegetation,IMPERVIOUS_18,66,75
+San Mateo vegetation,IMPERVIOUS_18,67,70
+San Mateo vegetation,IMPERVIOUS_18,69,61
+San Mateo vegetation,IMPERVIOUS_18,72,58
+San Mateo vegetation,IMPERVIOUS_18,70,52
+San Mateo vegetation,IMPERVIOUS_18,71,51
+San Mateo vegetation,IMPERVIOUS_18,73,48
+San Mateo vegetation,IMPERVIOUS_18,75,45
+San Mateo vegetation,IMPERVIOUS_18,74,43
+San Mateo vegetation,IMPERVIOUS_18,77,33
+San Mateo vegetation,IMPERVIOUS_18,80,33
+San Mateo vegetation,IMPERVIOUS_18,82,32
+San Mateo vegetation,IMPERVIOUS_18,100,31
+San Mateo vegetation,IMPERVIOUS_18,78,26
+San Mateo vegetation,IMPERVIOUS_18,85,26
+San Mateo vegetation,IMPERVIOUS_18,83,25
+San Mateo vegetation,IMPERVIOUS_18,84,25
+San Mateo vegetation,IMPERVIOUS_18,96,24
+San Mateo vegetation,IMPERVIOUS_18,76,23
+San Mateo vegetation,IMPERVIOUS_18,79,22
+San Mateo vegetation,IMPERVIOUS_18,93,22
+San Mateo vegetation,IMPERVIOUS_18,91,20
+San Mateo vegetation,IMPERVIOUS_18,95,20
+San Mateo vegetation,IMPERVIOUS_18,92,19
+San Mateo vegetation,IMPERVIOUS_18,81,18
+San Mateo vegetation,IMPERVIOUS_18,90,17
+San Mateo vegetation,IMPERVIOUS_18,88,16
+San Mateo vegetation,IMPERVIOUS_18,89,16
+San Mateo vegetation,IMPERVIOUS_18,86,14
+San Mateo vegetation,IMPERVIOUS_18,87,14
+San Mateo vegetation,IMPERVIOUS_18,97,14
+San Mateo vegetation,IMPERVIOUS_18,98,11
+San Mateo vegetation,IMPERVIOUS_18,99,9
+San Mateo vegetation,IMPERVIOUS_18,94,8
+San Mateo vegetation,PAVED_RD_18,0,84828
+San Mateo vegetation,PAVED_RD_18,1,1713
+San Mateo vegetation,PAVED_RD_18,2,1202
+San Mateo vegetation,PAVED_RD_18,3,1022
+San Mateo vegetation,PAVED_RD_18,4,916
+San Mateo vegetation,PAVED_RD_18,5,863
+San Mateo vegetation,PAVED_RD_18,6,786
+San Mateo vegetation,PAVED_RD_18,7,701
+San Mateo vegetation,PAVED_RD_18,8,628
+San Mateo vegetation,PAVED_RD_18,9,575
+San Mateo vegetation,PAVED_RD_18,10,531
+San Mateo vegetation,PAVED_RD_18,11,486
+San Mateo vegetation,PAVED_RD_18,12,410
+San Mateo vegetation,PAVED_RD_18,13,365
+San Mateo vegetation,PAVED_RD_18,14,306
+San Mateo vegetation,PAVED_RD_18,15,252
+San Mateo vegetation,PAVED_RD_18,16,248
+San Mateo vegetation,PAVED_RD_18,17,221
+San Mateo vegetation,PAVED_RD_18,18,191
+San Mateo vegetation,PAVED_RD_18,19,159
+San Mateo vegetation,PAVED_RD_18,21,124
+San Mateo vegetation,PAVED_RD_18,20,107
+San Mateo vegetation,PAVED_RD_18,23,86
+San Mateo vegetation,PAVED_RD_18,22,84
+San Mateo vegetation,PAVED_RD_18,27,59
+San Mateo vegetation,PAVED_RD_18,24,56
+San Mateo vegetation,PAVED_RD_18,25,51
+San Mateo vegetation,PAVED_RD_18,26,49
+San Mateo vegetation,PAVED_RD_18,29,36
+San Mateo vegetation,PAVED_RD_18,31,33
+San Mateo vegetation,PAVED_RD_18,28,29
+San Mateo vegetation,PAVED_RD_18,30,29
+San Mateo vegetation,PAVED_RD_18,36,25
+San Mateo vegetation,PAVED_RD_18,35,24
+San Mateo vegetation,PAVED_RD_18,33,22
+San Mateo vegetation,PAVED_RD_18,32,21
+San Mateo vegetation,PAVED_RD_18,34,20
+San Mateo vegetation,PAVED_RD_18,100,18
+San Mateo vegetation,PAVED_RD_18,37,16
+San Mateo vegetation,PAVED_RD_18,43,16
+San Mateo vegetation,PAVED_RD_18,38,15
+San Mateo vegetation,PAVED_RD_18,40,15
+San Mateo vegetation,PAVED_RD_18,41,15
+San Mateo vegetation,PAVED_RD_18,42,13
+San Mateo vegetation,PAVED_RD_18,47,13
+San Mateo vegetation,PAVED_RD_18,39,11
+San Mateo vegetation,PAVED_RD_18,45,11
+San Mateo vegetation,PAVED_RD_18,52,11
+San Mateo vegetation,PAVED_RD_18,53,11
+San Mateo vegetation,PAVED_RD_18,48,10
+San Mateo vegetation,PAVED_RD_18,59,10
+San Mateo vegetation,PAVED_RD_18,56,9
+San Mateo vegetation,PAVED_RD_18,44,8
+San Mateo vegetation,PAVED_RD_18,49,8
+San Mateo vegetation,PAVED_RD_18,55,8
+San Mateo vegetation,PAVED_RD_18,46,7
+San Mateo vegetation,PAVED_RD_18,54,6
+San Mateo vegetation,PAVED_RD_18,57,6
+San Mateo vegetation,PAVED_RD_18,58,6
+San Mateo vegetation,PAVED_RD_18,68,6
+San Mateo vegetation,PAVED_RD_18,63,5
+San Mateo vegetation,PAVED_RD_18,50,4
+San Mateo vegetation,PAVED_RD_18,60,4
+San Mateo vegetation,PAVED_RD_18,85,4
+San Mateo vegetation,PAVED_RD_18,62,3
+San Mateo vegetation,PAVED_RD_18,70,3
+San Mateo vegetation,PAVED_RD_18,71,3
+San Mateo vegetation,PAVED_RD_18,74,3
+San Mateo vegetation,PAVED_RD_18,75,3
+San Mateo vegetation,PAVED_RD_18,83,3
+San Mateo vegetation,PAVED_RD_18,89,3
+San Mateo vegetation,PAVED_RD_18,51,2
+San Mateo vegetation,PAVED_RD_18,61,2
+San Mateo vegetation,PAVED_RD_18,64,2
+San Mateo vegetation,PAVED_RD_18,66,2
+San Mateo vegetation,PAVED_RD_18,67,2
+San Mateo vegetation,PAVED_RD_18,69,2
+San Mateo vegetation,PAVED_RD_18,73,2
+San Mateo vegetation,PAVED_RD_18,76,2
+San Mateo vegetation,PAVED_RD_18,77,2
+San Mateo vegetation,PAVED_RD_18,78,2
+San Mateo vegetation,PAVED_RD_18,81,2
+San Mateo vegetation,PAVED_RD_18,84,2
+San Mateo vegetation,PAVED_RD_18,87,2
+San Mateo vegetation,PAVED_RD_18,94,2
+San Mateo vegetation,PAVED_RD_18,72,1
+San Mateo vegetation,PAVED_RD_18,79,1
+San Mateo vegetation,PAVED_RD_18,80,1
+San Mateo vegetation,PAVED_RD_18,93,1
+San Mateo vegetation,PAVED_RD_18,95,1
+San Mateo vegetation,PAVED_RD_18,96,1
+San Mateo vegetation,PAVED_RD_18,97,1
+San Mateo vegetation,BUILDING_18,0,89281
+San Mateo vegetation,BUILDING_18,1,1567
+San Mateo vegetation,BUILDING_18,2,633
+San Mateo vegetation,BUILDING_18,3,362
+San Mateo vegetation,BUILDING_18,4,250
+San Mateo vegetation,BUILDING_18,23,187
+San Mateo vegetation,BUILDING_18,27,183
+San Mateo vegetation,BUILDING_18,25,180
+San Mateo vegetation,BUILDING_18,21,178
+San Mateo vegetation,BUILDING_18,26,174
+San Mateo vegetation,BUILDING_18,22,164
+San Mateo vegetation,BUILDING_18,32,164
+San Mateo vegetation,BUILDING_18,24,162
+San Mateo vegetation,BUILDING_18,20,158
+San Mateo vegetation,BUILDING_18,18,157
+San Mateo vegetation,BUILDING_18,19,155
+San Mateo vegetation,BUILDING_18,28,152
+San Mateo vegetation,BUILDING_18,17,149
+San Mateo vegetation,BUILDING_18,31,148
+San Mateo vegetation,BUILDING_18,29,147
+San Mateo vegetation,BUILDING_18,30,142
+San Mateo vegetation,BUILDING_18,34,142
+San Mateo vegetation,BUILDING_18,5,141
+San Mateo vegetation,BUILDING_18,16,139
+San Mateo vegetation,BUILDING_18,14,132
+San Mateo vegetation,BUILDING_18,35,131
+San Mateo vegetation,BUILDING_18,15,125
+San Mateo vegetation,BUILDING_18,33,122
+San Mateo vegetation,BUILDING_18,6,117
+San Mateo vegetation,BUILDING_18,36,116
+San Mateo vegetation,BUILDING_18,9,106
+San Mateo vegetation,BUILDING_18,11,105
+San Mateo vegetation,BUILDING_18,12,103
+San Mateo vegetation,BUILDING_18,39,103
+San Mateo vegetation,BUILDING_18,38,99
+San Mateo vegetation,BUILDING_18,8,99
+San Mateo vegetation,BUILDING_18,13,98
+San Mateo vegetation,BUILDING_18,10,95
+San Mateo vegetation,BUILDING_18,7,93
+San Mateo vegetation,BUILDING_18,40,92
+San Mateo vegetation,BUILDING_18,37,89
+San Mateo vegetation,BUILDING_18,41,76
+San Mateo vegetation,BUILDING_18,42,74
+San Mateo vegetation,BUILDING_18,44,69
+San Mateo vegetation,BUILDING_18,43,61
+San Mateo vegetation,BUILDING_18,45,52
+San Mateo vegetation,BUILDING_18,46,52
+San Mateo vegetation,BUILDING_18,47,42
+San Mateo vegetation,BUILDING_18,48,35
+San Mateo vegetation,BUILDING_18,52,24
+San Mateo vegetation,BUILDING_18,50,21
+San Mateo vegetation,BUILDING_18,49,20
+San Mateo vegetation,BUILDING_18,53,17
+San Mateo vegetation,BUILDING_18,55,15
+San Mateo vegetation,BUILDING_18,51,14
+San Mateo vegetation,BUILDING_18,56,12
+San Mateo vegetation,BUILDING_18,57,10
+San Mateo vegetation,BUILDING_18,54,8
+San Mateo vegetation,BUILDING_18,60,4
+San Mateo vegetation,BUILDING_18,58,3
+San Mateo vegetation,BUILDING_18,62,3
+San Mateo vegetation,BUILDING_18,65,3
+San Mateo vegetation,BUILDING_18,59,2
+San Mateo vegetation,BUILDING_18,61,2
+San Mateo vegetation,BUILDING_18,63,2
+San Mateo vegetation,BUILDING_18,75,2
+San Mateo vegetation,BUILDING_18,81,2
+San Mateo vegetation,BUILDING_18,83,2
+San Mateo vegetation,BUILDING_18,90,2
+San Mateo vegetation,BUILDING_18,64,1
+San Mateo vegetation,BUILDING_18,66,1
+San Mateo vegetation,BUILDING_18,69,1
+San Mateo vegetation,BUILDING_18,72,1
+San Mateo vegetation,BUILDING_18,74,1
+San Mateo vegetation,BUILDING_18,76,1
+San Mateo vegetation,BUILDING_18,77,1
+San Mateo vegetation,BUILDING_18,82,1
+San Mateo vegetation,BUILDING_18,87,1
+San Mateo vegetation,BUILDING_18,92,1
+San Mateo vegetation,BUILDING_18,94,1
+Marin impervious,Class,Other Paved Surface,109671
+Marin impervious,Class,Building,106326
+Marin impervious,Class,Other Dirt/Gravel Surface,8624
+Marin impervious,Class,Paved Road,2968
+Marin impervious,Class,Dirt/Gravel Road,1163

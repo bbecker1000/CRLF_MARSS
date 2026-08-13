@@ -1,0 +1,40 @@
+field,value,n_records
+AcCRLFB,No,52
+AcCRLFB,Yes,20
+Watrshd,Redwood Creek,28
+Watrshd,Laguna Salada,9
+Watrshd,Rodeo Lagoon,9
+Watrshd,Tennessee Valley,7
+Watrshd,Kanoff Creek,4
+Watrshd,Easkoot Creek,3
+Watrshd,Olema Creek,2
+Watrshd,Audubon Canyon,1
+Watrshd,Denniston Creek,1
+Watrshd,Garden Club Canyon,1
+Watrshd,Milagra Creek,1
+Watrshd,Oakwood Valley,1
+Watrshd,Redwood creek,1
+Watrshd,San Mateo Creek,1
+Watrshd,San Pedro Creek,1
+Watrshd,Sutro Bath,1
+Watrshd,Wilkins Gulch,1
+WatrRgm,seasonal,41
+WatrRgm,perennial,30
+WatrRgm,<MISSING>,1
+Hbtt_ty,pond,27
+Hbtt_ty,marsh,13
+Hbtt_ty,stream,10
+Hbtt_ty,ditch,5
+Hbtt_ty,<MISSING>,4
+Hbtt_ty,meadow,4
+Hbtt_ty,spring,4
+Hbtt_ty,lagoon,3
+Hbtt_ty,road,1
+Hbtt_ty,slough,1
+County,Marin,53
+County,San Mateo,18
+County,San Francisco,1
+Project,CRLF,72
+Datum,NAD83,63
+Datum,<MISSING>,5
+Datum,wgs84,4

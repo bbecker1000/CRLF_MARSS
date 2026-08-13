@@ -1,0 +1,9 @@
+site_id,projected_x,projected_y,polygon_match_status,polygon_row_id,map_class,lifeform,forest_lifeform,acres,impervious_percent,paved_road_percent,dirt_road_percent,building_percent
+LS01,5983988.756521558,2054957.9339043235,ONE_INTERSECTING_POLYGON,78398,Arid West Freshwater Emergent Marsh Group,Freshwater Herbaceous Wetland,Freshwater Herbaceous Wetland,1.7991467140238373,0,0,0,0
+LS04,5984140.280693241,2054976.868634959,ONE_INTERSECTING_POLYGON,78398,Arid West Freshwater Emergent Marsh Group,Freshwater Herbaceous Wetland,Freshwater Herbaceous Wetland,1.7991467140238373,0,0,0,0
+LS05,5984676.4226610325,2054768.853699908,ONE_INTERSECTING_POLYGON,870,Salix lasiolepis Alliance,Riparian Forest,Riparian Forest,1.085492718824063,0,0,0,0
+LS06,5984661.363388591,2054450.8037768584,ONE_INTERSECTING_POLYGON,97462,Vancouverian Freshwater Wet Meadow & Marsh Group,Freshwater Herbaceous Wetland,Freshwater Herbaceous Wetland,1.341171057137879,0,0,0,0
+LS07,5984766.208867054,2054319.9665466957,ONE_INTERSECTING_POLYGON,71907,Baccharis pilularis Alliance,Shrub,Shrub,1.4480661326178095,5,0,0,0
+LS08,5984471.282698432,2054610.8378417029,ONE_INTERSECTING_POLYGON,97462,Vancouverian Freshwater Wet Meadow & Marsh Group,Freshwater Herbaceous Wetland,Freshwater Herbaceous Wetland,1.341171057137879,0,0,0,0
+LS11,5984497.998249118,2056392.9192170757,ONE_INTERSECTING_POLYGON,90474,Water,Water,Water,4.41800514224862,0,0,0,0
+MC01,5990716.5120122945,2061137.4533026142,ONE_INTERSECTING_POLYGON,97489,Vancouverian Freshwater Wet Meadow & Marsh Group,Freshwater Herbaceous Wetland,Freshwater Herbaceous Wetland,0.32355372778365854,0,0,0,0

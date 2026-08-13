@@ -1,0 +1,27 @@
+dataset,field,value,n_features
+Marin lifeform,LIFEFORM_18,Developed,5034
+Marin lifeform,LIFEFORM_18,Native Shrub,4845
+Marin lifeform,LIFEFORM_18,Herbaceous,4130
+Marin lifeform,LIFEFORM_18,Native Forest,2947
+Marin lifeform,LIFEFORM_18,Freshwater Wetland,1721
+Marin lifeform,LIFEFORM_18,Shrub Fragment,1669
+Marin lifeform,LIFEFORM_18,Water,1603
+Marin lifeform,LIFEFORM_18,Forest Fragment,1366
+Marin lifeform,LIFEFORM_18,Tidal Wetland,1221
+Marin lifeform,LIFEFORM_18,Non-native Forest,1193
+Marin lifeform,LIFEFORM_18,Channel,942
+Marin lifeform,LIFEFORM_18,Mudflat,827
+Marin lifeform,LIFEFORM_18,Non-native Shrub,321
+Marin lifeform,LIFEFORM_18,Non-native Herbaceous,292
+Marin lifeform,LIFEFORM_18,Barren,214
+Marin lifeform,LIFEFORM_18,Orchard or Grove,63
+Marin lifeform,LIFEFORM_18,Annual Cropland,57
+Marin lifeform,LIFEFORM_18,Vineyard,56
+Marin lifeform,LIFEFORM_18,Eel Grass,43
+Marin lifeform,LIFEFORM_18,Intensively Managed Hayfield,25
+Marin lifeform,LIFEFORM_18,Aquatic Vegetation,19
+Marin lifeform,LIFEFORM_18,Irrigated Pasture,17
+Marin lifeform,LIFEFORM_18,Nursery or Ornamental Horticulture Area,12
+Marin lifeform,LIFEFORM_18,Major Road,5
+Marin lifeform,LIFEFORM_18,Perennial Cropland,4
+Marin lifeform,LIFEFORM_18,Aquaculture,3

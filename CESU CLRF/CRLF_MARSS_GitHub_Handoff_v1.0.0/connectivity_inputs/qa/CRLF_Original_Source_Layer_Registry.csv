@@ -1,0 +1,4 @@
+dataset,gdb_path,layer,exists,use_status
+Marin original lifeform,F:/CRLF_MARSS/data/spatial/Lifeform.gdb/MARIN_LIFEFORM_9_30.gdb,MARIN_LIFEFORM_9_30,TRUE,Use
+San Mateo original vegetation,F:/CRLF_MARSS/data/spatial/San_Mateo.gdb/San_Mateo.gdb,san_mateo_fine_scale_veg_6_14_22,TRUE,Use
+Marin original impervious,F:/CRLF_MARSS/data/spatial/Impervious_Delivery_8_20_Marin.gdb/Impervious_Delivery_8_20_Marin.gdb,Marin_Impervious_2018_8_20_v11f,TRUE,Use

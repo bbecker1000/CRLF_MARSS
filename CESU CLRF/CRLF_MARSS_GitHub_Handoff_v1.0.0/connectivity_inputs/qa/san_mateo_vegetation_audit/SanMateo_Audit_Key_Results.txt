@@ -1,0 +1,211 @@
+SAN MATEO VEGETATION AUDIT — KEY RESULTS
+========================================
+
+WETLAND, AQUATIC, WATER AND BORDERLINE CANDIDATES
+# A tibble: 31 × 7
+   map_class_clean                                                      lifeform_clean               
+   <chr>                                                                <chr>                        
+ 1 Calamagrostis nutkaensis Alliance                                    Herbaceous                   
+ 2 Conium maculatum – Foeniculum vulgare Semi-Natural Alliance          Herbaceous                   
+ 3 Gaultheria shallon – Rubus (ursinus) Alliance                        Shrub                        
+ 4 Rubus armeniacus Semi-Natural Association                            Shrub                        
+ 5 Rubus spectabilis – Morella californica Alliance                     Shrub                        
+ 6 Arid West Freshwater Emergent Marsh Group                            Freshwater Herbaceous Wetland
+ 7 Vancouverian Freshwater Wet Meadow & Marsh Group                     Freshwater Herbaceous Wetland
+ 8 Western North American Freshwater Aquatic Vegetation Macrogroup      Freshwater Herbaceous Wetland
+ 9 Mudflat/Dry Pond Bottom Mapping Unit                                 Mudflat                      
+10 Salix lasiolepis Alliance                                            Riparian Forest              
+11 Acer macrophyllum – Alnus rubra Alliance                             Riparian Forest              
+12 Cornus sericea – Salix (lasiolepis, exigua) Association              Riparian Forest              
+13 Salix lucida ssp. lasiandra Association                              Riparian Forest              
+14 Alnus rhombifolia Alliance                                           Riparian Forest              
+15 Populus trichocarpa Alliance                                         Riparian Forest              
+16 Salix gooddingii – Salix laevigata Alliance                          Riparian Forest              
+17 Acer negundo / (Rubus ursinus) Association                           Riparian Forest              
+18 Salix exigua Alliance                                                Riparian Forest              
+19 Juglans hindsii and Hybrids Special Stands and Semi-Natural Alliance Riparian Forest              
+20 Quercus agrifolia / Salix lasiolepis Association                     Riparian Forest              
+21 Salix hookeriana – Salix sitchensis – Spiraea douglasii Alliance     Riparian Forest              
+22 Populus fremontii – Fraxinus velutina – Salix gooddingii Alliance    Riparian Forest              
+23 Zostera (marina, pacifica) Pacific Aquatic Alliance                  Eel Grass                    
+24 Sarcocornia pacifica (Salicornia depressa) Alliance                  Tidal Wetland                
+25 Spartina foliosa Assocation                                          Tidal Wetland                
+26 Distichlis spicata Alliance                                          Tidal Wetland                
+27 Grindelia stricta Provisional Association                            Tidal Wetland                
+28 Bolboschoenus maritimus Alliance                                     Tidal Wetland                
+29 Cakile (edentula, maritima) Provisional Semi-Natural Alliance        Tidal Wetland                
+30 Atriplex prostrata – Cotula coronopifolia Semi-Natural Alliance      Tidal Wetland                
+31 Water                                                                Water                        
+   forest_lifeform_clean         candidate_categories              n_polygons total_acres mean_polygon_acres
+   <chr>                         <chr>                                  <dbl>       <dbl>              <dbl>
+ 1 Non-native Herbaceous         borderline_calamagrostis                   1       2.62               2.62 
+ 2 Non-native Herbaceous         borderline_conium_foeniculum              67     136.                 2.03 
+ 3 Shrub                         borderline_rhododendron                  577    1326.                 2.30 
+ 4 Non-native Shrub              borderline_rubus_armeniacus               13      26.3                2.02 
+ 5 Shrub                         borderline_rubus_morella                 132     278.                 2.10 
+ 6 Freshwater Herbaceous Wetland freshwater_aquatic; marsh_wetland        213     404.                 1.90 
+ 7 Freshwater Herbaceous Wetland freshwater_aquatic; marsh_wetland        182     254.                 1.39 
+ 8 Freshwater Herbaceous Wetland freshwater_aquatic; marsh_wetland          1       5.98               5.98 
+ 9 Mudflat                       pond_or_dry_bottom; mudflat             2481    2916.                 1.18 
+10 Riparian Forest               riparian                                3332    4657.                 1.40 
+11 Riparian Forest               riparian                                1139    2477.                 2.17 
+12 Riparian Forest               riparian                                  81     239.                 2.96 
+13 Riparian Forest               riparian                                  80     191.                 2.38 
+14 Riparian Forest               riparian                                  50     117.                 2.33 
+15 Riparian Forest               riparian                                  18      48.6                2.70 
+16 Riparian Forest               riparian                                  10      45.0                4.50 
+17 Riparian Forest               riparian                                  30      39.9                1.33 
+18 Riparian Forest               riparian                                   4      10.8                2.70 
+19 Riparian Forest               riparian                                   1       7.41               7.41 
+20 Riparian Forest               riparian                                   2       3.82               1.91 
+21 Riparian Forest               riparian                                   2       1.28               0.639
+22 Riparian Forest               riparian                                   1       0.910              0.910
+23 Eel Grass                     tidal_marine                               3       7.95               2.65 
+24 Tidal Wetland                 tidal_marine; marsh_wetland             2108    3133.                 1.49 
+25 Tidal Wetland                 tidal_marine; marsh_wetland              653     154.                 0.236
+26 Tidal Wetland                 tidal_marine; marsh_wetland              313     104.                 0.333
+27 Tidal Wetland                 tidal_marine; marsh_wetland              402      95.7                0.238
+28 Tidal Wetland                 tidal_marine; marsh_wetland              111      25.5                0.229
+29 Tidal Wetland                 tidal_marine; marsh_wetland                3       5.09               1.70 
+30 Tidal Wetland                 tidal_marine; marsh_wetland                5       0.601              0.120
+31 Water                         water                                   1647   15003.                 9.11 
+
+
+FIVE BORDERLINE GROUPS
+# A tibble: 5 × 6
+  target_group                  map_class_clean                                             lifeform_clean
+  <chr>                         <chr>                                                       <chr>         
+1 Rhododendron-Gaultheria-Carex Gaultheria shallon – Rubus (ursinus) Alliance               Shrub         
+2 Rubus spectabilis-Morella     Rubus spectabilis – Morella californica Alliance            Shrub         
+3 Conium-Foeniculum             Conium maculatum – Foeniculum vulgare Semi-Natural Alliance Herbaceous    
+4 Rubus armeniacus              Rubus armeniacus Semi-Natural Association                   Shrub         
+5 Calamagrostis nutkaensis      Calamagrostis nutkaensis Alliance                           Herbaceous    
+  forest_lifeform_clean n_polygons total_acres
+  <chr>                      <dbl>       <dbl>
+1 Shrub                        577     1326.  
+2 Shrub                        132      278.  
+3 Non-native Herbaceous         67      136.  
+4 Non-native Shrub              13       26.3 
+5 Non-native Herbaceous          1        2.62
+
+
+AMBIGUOUS WATER-RELATED CLASSES
+# A tibble: 26 × 6
+   map_class_clean                                                      lifeform_clean               
+   <chr>                                                                <chr>                        
+ 1 Zostera (marina, pacifica) Pacific Aquatic Alliance                  Eel Grass                    
+ 2 Arid West Freshwater Emergent Marsh Group                            Freshwater Herbaceous Wetland
+ 3 Vancouverian Freshwater Wet Meadow & Marsh Group                     Freshwater Herbaceous Wetland
+ 4 Western North American Freshwater Aquatic Vegetation Macrogroup      Freshwater Herbaceous Wetland
+ 5 Mudflat/Dry Pond Bottom Mapping Unit                                 Mudflat                      
+ 6 Salix lasiolepis Alliance                                            Riparian Forest              
+ 7 Acer macrophyllum – Alnus rubra Alliance                             Riparian Forest              
+ 8 Cornus sericea – Salix (lasiolepis, exigua) Association              Riparian Forest              
+ 9 Salix lucida ssp. lasiandra Association                              Riparian Forest              
+10 Alnus rhombifolia Alliance                                           Riparian Forest              
+11 Populus trichocarpa Alliance                                         Riparian Forest              
+12 Salix gooddingii – Salix laevigata Alliance                          Riparian Forest              
+13 Acer negundo / (Rubus ursinus) Association                           Riparian Forest              
+14 Salix exigua Alliance                                                Riparian Forest              
+15 Juglans hindsii and Hybrids Special Stands and Semi-Natural Alliance Riparian Forest              
+16 Quercus agrifolia / Salix lasiolepis Association                     Riparian Forest              
+17 Salix hookeriana – Salix sitchensis – Spiraea douglasii Alliance     Riparian Forest              
+18 Populus fremontii – Fraxinus velutina – Salix gooddingii Alliance    Riparian Forest              
+19 Sarcocornia pacifica (Salicornia depressa) Alliance                  Tidal Wetland                
+20 Spartina foliosa Assocation                                          Tidal Wetland                
+21 Distichlis spicata Alliance                                          Tidal Wetland                
+22 Grindelia stricta Provisional Association                            Tidal Wetland                
+23 Bolboschoenus maritimus Alliance                                     Tidal Wetland                
+24 Cakile (edentula, maritima) Provisional Semi-Natural Alliance        Tidal Wetland                
+25 Atriplex prostrata – Cotula coronopifolia Semi-Natural Alliance      Tidal Wetland                
+26 Water                                                                Water                        
+   forest_lifeform_clean         n_polygons total_acres mean_polygon_acres
+   <chr>                              <dbl>       <dbl>              <dbl>
+ 1 Eel Grass                              3       7.95               2.65 
+ 2 Freshwater Herbaceous Wetland        213     404.                 1.90 
+ 3 Freshwater Herbaceous Wetland        182     254.                 1.39 
+ 4 Freshwater Herbaceous Wetland          1       5.98               5.98 
+ 5 Mudflat                             2481    2916.                 1.18 
+ 6 Riparian Forest                     3332    4657.                 1.40 
+ 7 Riparian Forest                     1139    2477.                 2.17 
+ 8 Riparian Forest                       81     239.                 2.96 
+ 9 Riparian Forest                       80     191.                 2.38 
+10 Riparian Forest                       50     117.                 2.33 
+11 Riparian Forest                       18      48.6                2.70 
+12 Riparian Forest                       10      45.0                4.50 
+13 Riparian Forest                       30      39.9                1.33 
+14 Riparian Forest                        4      10.8                2.70 
+15 Riparian Forest                        1       7.41               7.41 
+16 Riparian Forest                        2       3.82               1.91 
+17 Riparian Forest                        2       1.28               0.639
+18 Riparian Forest                        1       0.910              0.910
+19 Tidal Wetland                       2108    3133.                 1.49 
+20 Tidal Wetland                        653     154.                 0.236
+21 Tidal Wetland                        313     104.                 0.333
+22 Tidal Wetland                        402      95.7                0.238
+23 Tidal Wetland                        111      25.5                0.229
+24 Tidal Wetland                          3       5.09               1.70 
+25 Tidal Wetland                          5       0.601              0.120
+26 Water                               1647   15003.                 9.11 
+
+
+MODEL-SITE POLYGON OVERLAY
+# A tibble: 8 × 13
+  site_id projected_x projected_y polygon_match_status     polygon_row_id map_class                                      
+  <chr>         <dbl>       <dbl> <chr>                             <dbl> <chr>                                          
+1 LS01       5983989.    2054958. ONE_INTERSECTING_POLYGON          78398 Arid West Freshwater Emergent Marsh Group      
+2 LS04       5984140.    2054977. ONE_INTERSECTING_POLYGON          78398 Arid West Freshwater Emergent Marsh Group      
+3 LS05       5984676.    2054769. ONE_INTERSECTING_POLYGON            870 Salix lasiolepis Alliance                      
+4 LS06       5984661.    2054451. ONE_INTERSECTING_POLYGON          97462 Vancouverian Freshwater Wet Meadow & Marsh Gro…
+5 LS07       5984766.    2054320. ONE_INTERSECTING_POLYGON          71907 Baccharis pilularis Alliance                   
+6 LS08       5984471.    2054611. ONE_INTERSECTING_POLYGON          97462 Vancouverian Freshwater Wet Meadow & Marsh Gro…
+7 LS11       5984498.    2056393. ONE_INTERSECTING_POLYGON          90474 Water                                          
+8 MC01       5990717.    2061137. ONE_INTERSECTING_POLYGON          97489 Vancouverian Freshwater Wet Meadow & Marsh Gro…
+  lifeform                 forest_lifeform acres impervious_percent paved_road_percent dirt_road_percent building_percent
+  <chr>                    <chr>           <dbl>              <dbl>              <dbl>             <dbl>            <dbl>
+1 Freshwater Herbaceous W… Freshwater Her… 1.80                   0                  0                 0                0
+2 Freshwater Herbaceous W… Freshwater Her… 1.80                   0                  0                 0                0
+3 Riparian Forest          Riparian Forest 1.09                   0                  0                 0                0
+4 Freshwater Herbaceous W… Freshwater Her… 1.34                   0                  0                 0                0
+5 Shrub                    Shrub           1.45                   5                  0                 0                0
+6 Freshwater Herbaceous W… Freshwater Her… 1.34                   0                  0                 0                0
+7 Water                    Water           4.42                   0                  0                 0                0
+8 Freshwater Herbaceous W… Freshwater Her… 0.324                  0                  0                 0                0
+
+
+MODEL-SITE OVERLAY ISSUES
+No overlay issues detected.
+
+
+IMPERVIOUS FIELD SUMMARY
+# A tibble: 6 × 10
+  field           n_records n_present n_missing minimum first_quartile median   mean third_quartile maximum
+  <chr>               <dbl>     <dbl>     <dbl>   <dbl>          <dbl>  <dbl>  <dbl>          <dbl>   <dbl>
+1 PERVIOUS_18         97580     97580         0       0             96    100 94.5              100     100
+2 IMPERVIOUS_18       97580     97580         0       0              0      0  5.52               4     100
+3 PAVED_RD_18         97580     97580         0       0              0      0  1.20               0     100
+4 DIRT_RD_18          97580     97580         0       0              0      0  0.645              0      80
+5 OTHER_IMPERV_18     97580     97580         0       0              0      0  2.17               0     100
+6 BUILDING_18         97580     97580         0       0              0      0  1.49               0      94
+
+
+IMPERVIOUS CONSISTENCY
+# A tibble: 2 × 6
+  metric                                  n_present minimum median      mean maximum
+  <chr>                                       <dbl>   <dbl>  <dbl>     <dbl>   <dbl>
+1 PERVIOUS_18 + IMPERVIOUS_18                 97580     100    100 100           100
+2 Detailed components minus IMPERVIOUS_18     97580      -1      0  -0.00942       1
+
+
+IMPERVIOUS THRESHOLD COUNTS
+# A tibble: 8 × 2
+  threshold_type       n_polygons
+  <chr>                     <dbl>
+1 Any impervious > 0        35925
+2 Impervious >= 10%         14697
+3 Impervious >= 25%          6592
+4 Impervious >= 50%          3236
+5 Paved road > 0            12752
+6 Dirt road > 0              9697
+7 Building > 0               8299
+8 Other impervious > 0      22132

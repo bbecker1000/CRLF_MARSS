@@ -1,0 +1,15 @@
+site_id,model_watershed,metadata_watershed,metadata_match_status,watershed_match
+LS01,Laguna Salada,Laguna Salada,MATCHED_METADATA,TRUE
+LS04,Laguna Salada,Laguna Salada,MATCHED_METADATA,TRUE
+LS05,Laguna Salada,Laguna Salada,MATCHED_METADATA,TRUE
+LS06,Laguna Salada,Laguna Salada,MATCHED_METADATA,TRUE
+LS07,Laguna Salada,Laguna Salada,MATCHED_METADATA,TRUE
+LS08,Laguna Salada,Laguna Salada,MATCHED_METADATA,TRUE
+LS11,Laguna Salada,,UNMATCHED_METADATA,
+MC01,Milagra Creek,Milagra Creek,MATCHED_METADATA,TRUE
+RC07,Redwood Creek,Redwood Creek,MATCHED_METADATA,TRUE
+RC10,Redwood Creek,Redwood Creek,MATCHED_METADATA,TRUE
+RC11,Redwood Creek,Redwood Creek,MATCHED_METADATA,TRUE
+RL02,Rodeo Lagoon,Rodeo Lagoon,MATCHED_METADATA,TRUE
+TV02,Tennessee Valley,Tennessee Valley,MATCHED_METADATA,TRUE
+WG01,Wilkins Gulch,Wilkins Gulch,MATCHED_METADATA,TRUE

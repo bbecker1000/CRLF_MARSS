@@ -1,0 +1,40 @@
+dataset,field
+Marin lifeform,LIFEFORM_18
+Marin lifeform,Shape_Length
+Marin lifeform,Shape_Area
+San Mateo vegetation,OID_COPY
+San Mateo vegetation,MAP_CLASS_18
+San Mateo vegetation,ABBRV
+San Mateo vegetation,LIFEFORM_18
+San Mateo vegetation,FOREST_LIFEFORM_18
+San Mateo vegetation,ABS_COVER_17
+San Mateo vegetation,REL_CON_COV_18
+San Mateo vegetation,REL_HDW_COV_18
+San Mateo vegetation,HDW_COVER_18
+San Mateo vegetation,CON_COVER_18
+San Mateo vegetation,SHB_COVER_18
+San Mateo vegetation,STAND_HT_MN_17
+San Mateo vegetation,STAND_HT_MD_17
+San Mateo vegetation,STAND_HT_MX_17
+San Mateo vegetation,STAND_HT_SD_17
+San Mateo vegetation,STANDING_DEAD_18
+San Mateo vegetation,SD_PRESENCE
+San Mateo vegetation,LADDER_FUELS_17
+San Mateo vegetation,SLOPE_MEAN
+San Mateo vegetation,SLOPE_STD
+San Mateo vegetation,SLOPE_MAX
+San Mateo vegetation,PERVIOUS_18
+San Mateo vegetation,IMPERVIOUS_18
+San Mateo vegetation,PAVED_RD_18
+San Mateo vegetation,DIRT_RD_18
+San Mateo vegetation,OTHER_IMPERV_18
+San Mateo vegetation,BUILDING_18
+San Mateo vegetation,ACRES
+San Mateo vegetation,SOURCE
+San Mateo vegetation,URBAN_WINDOW
+San Mateo vegetation,COUNTY
+San Mateo vegetation,Shape_Length
+San Mateo vegetation,Shape_Area
+Marin impervious,Class
+Marin impervious,Shape_Length
+Marin impervious,Shape_Area

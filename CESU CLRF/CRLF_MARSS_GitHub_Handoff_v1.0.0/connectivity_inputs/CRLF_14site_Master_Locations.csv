@@ -1,0 +1,15 @@
+mar_order,site_id,watershed,latitude,longitude,is_mar_site,coordinate_source,coordinate_type,coordinate_status,coordinate_notes,source_crs,latitude_units,longitude_units
+1,LS01,Laguna Salada,37.6215990513321,-122.49476940656,TRUE,Core_Sites_LatLon.csv,Existing site point,Ready for raster overlay QA,,EPSG:4326,decimal degrees,decimal degrees
+2,LS04,Laguna Salada,37.621659910269,-122.494247732586,TRUE,Core_Sites_LatLon.csv,Existing site point,Ready for raster overlay QA,,EPSG:4326,decimal degrees,decimal degrees
+3,LS05,Laguna Salada,37.6211201073218,-122.492381658579,TRUE,Core_Sites_LatLon.csv,Existing site point,Ready for raster overlay QA,,EPSG:4326,decimal degrees,decimal degrees
+4,LS06,Laguna Salada,37.6202459314577,-122.492410265508,TRUE,Core_Sites_LatLon.csv,Existing site point,Ready for raster overlay QA,,EPSG:4326,decimal degrees,decimal degrees
+5,LS07,Laguna Salada,37.6198928103723,-122.49203872629,TRUE,Core_Sites_LatLon.csv,Existing site point,Ready for raster overlay QA,,EPSG:4326,decimal degrees,decimal degrees
+6,LS08,Laguna Salada,37.620674234791,-122.493078186266,TRUE,Core_Sites_LatLon.csv,Existing site point,Ready for raster overlay QA,,EPSG:4326,decimal degrees,decimal degrees
+7,LS11,Laguna Salada,37.625569,-122.493117,TRUE,Older site-location notes,Representative center point,Ready for raster overlay QA,Single representative point near the center of an irregularly shaped aquatic site.,EPSG:4326,decimal degrees,decimal degrees
+8,MC01,Milagra Creek,37.6389582338,-122.471994396891,TRUE,Core_Sites_LatLon.csv,Existing site point,Ready for raster overlay QA,,EPSG:4326,decimal degrees,decimal degrees
+9,RC07,Redwood Creek,37.8682318778364,-122.580885029484,TRUE,Core_Sites_LatLon.csv,Existing site point,Ready for raster overlay QA,,EPSG:4326,decimal degrees,decimal degrees
+10,RC10,Redwood Creek,37.8632209422835,-122.573444168444,TRUE,Core_Sites_LatLon.csv,Existing site point,Ready for raster overlay QA,,EPSG:4326,decimal degrees,decimal degrees
+11,RC11,Redwood Creek,37.8620576653912,-122.573280345283,TRUE,Core_Sites_LatLon.csv,Existing site point,Ready for raster overlay QA,,EPSG:4326,decimal degrees,decimal degrees
+12,RL02,Rodeo Lagoon,37.8322202797358,-122.525110061171,TRUE,Core_Sites_LatLon.csv,Existing site point,Ready for raster overlay QA,,EPSG:4326,decimal degrees,decimal degrees
+13,TV02,Tennessee Valley,37.8444031239914,-122.549627545586,TRUE,Core_Sites_LatLon.csv,Existing site point,Ready for raster overlay QA,,EPSG:4326,decimal degrees,decimal degrees
+14,WG01,Wilkins Gulch,37.9345772961761,-122.695455054162,TRUE,Core_Sites_LatLon.csv,Existing site point,Ready for raster overlay QA,,EPSG:4326,decimal degrees,decimal degrees

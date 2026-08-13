@@ -1,0 +1,15 @@
+model_site_id,metadata_match_status,metadata_site_id,site_description,metadata_watershed,water_regime,habitat_type,aquatic_system,metadata_county,acrlfb_raw
+LS01,MATCHED_METADATA,LS01,Horse Stable Pond,Laguna Salada,perennial,pond,lentic,San Mateo,No
+LS04,MATCHED_METADATA,LS04,Horse Stable Pond Slough,Laguna Salada,perennial,stream,lentic,San Mateo,No
+LS05,MATCHED_METADATA,LS05,"Mori Point ""Willow Pond"" nr Sanchez Creek",Laguna Salada,perennial,pond,lentic,San Mateo,No
+LS06,MATCHED_METADATA,LS06,"Mori Point ""Middle Pond"" @ Mori's Pt Road",Laguna Salada,seasonal,pond,lentic,San Mateo,Yes
+LS07,MATCHED_METADATA,LS07,"Mori Point ""Southern Pond""",Laguna Salada,seasonal,pond,lentic,San Mateo,Yes
+LS08,MATCHED_METADATA,LS08,"Mori Point ""Wetland Pond""",Laguna Salada,perennial,pond,lentic,San Mateo,Yes
+LS11,UNMATCHED_METADATA,,,,,,,,
+MC01,MATCHED_METADATA,MC01,Milagra Ridge Oxid. Pond,Milagra Creek,seasonal,pond,lentic,San Mateo,Yes
+RC07,MATCHED_METADATA,RC07,Banducci Frog Pond,Redwood Creek,perennial,pond,lentic,Marin,Yes
+RC10,MATCHED_METADATA,RC10,2009 Frog Pond,Redwood Creek,seasonal,pond,lentic,Marin,Yes
+RC11,MATCHED_METADATA,RC11,2010 Frog Pond,Redwood Creek,seasonal,pond,lentic,Marin,Yes
+RL02,MATCHED_METADATA,RL02,Rodeo Lake,Rodeo Lagoon,perennial,pond,lentic,Marin,Yes
+TV02,MATCHED_METADATA,TV02,Tennessee Valley Cove Pond,Tennessee Valley,perennial,pond,lentic,San Mateo,Yes
+WG01,MATCHED_METADATA,WG01,Bolinas-Fairfax Wetland,Wilkins Gulch,seasonal,marsh,lentic,Marin,Yes

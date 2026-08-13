@@ -1,0 +1,21 @@
+LoctnID,Dscrptn,AcCRLFB,Watrshd,WatrRgm,Hbtt_ty,County,Project,Ltc_Lnt,StartLt,StartLn,StopLat,StopLon,StpUTMX,StpUTMY,UtmZone,Datum,Elevatn,Slope,Commnts
+AC01,Monday-Tuesday Ponds,No,Audubon Canyon,seasonal,,Marin,CRLF,lentic,,,,,,,,,,,Managed by Audubon Canyon Ranch
+AC02,Garden Club Canyon Pond,No,Garden Club Canyon,seasonal,,Marin,CRLF,lentic,,,,,,,,,,,Managed by Audubon Canyon Ranch
+DC01,Denniston Reservoir,No,Denniston Creek,perennial,pond,San Mateo,CRLF,lentic,,,,,,,10,NAD83,,,
+EC01,Stinson Beach Park Spring,No,Easkoot Creek,perennial,spring,Marin,CRLF,lentic,,,,,,,10,NAD83,,,"PEM, perennial spring"
+EC02,Stinson Beach Park Ditch,No,Easkoot Creek,seasonal,ditch,Marin,CRLF,lentic,,,,,,,10,NAD83,,,deep ditch alongside HWY 1
+EC03,Easkoot Creek,No,Easkoot Creek,seasonal,stream,Marin,CRLF,lotic,,,,,531689.1,4194503.7,10,NAD83,,,Creek within park boundaries
+KC01,Charthouse mitigation pond,Yes,Kanoff Creek,seasonal,pond,San Mateo,CRLF,lentic,,,,,,,10,NAD83,,,Caltrans mitigation wetland east of Highway One created in 2005
+KC02,Charthouse wetland ditch,Yes,Kanoff Creek,seasonal,ditch,San Mateo,CRLF,both,,,,,543173,4155759,10,NAD83,,,
+KC03,Charthouse upland swale,No,Kanoff Creek,seasonal,meadow,San Mateo,CRLF,lentic,,,,,543221,4155738,10,NAD83,,,
+KC04,Rancho bridge pool,No,Kanoff Creek,seasonal,stream,San Mateo,CRLF,lentic,,,,,,,,,,,Shallow pool 3m x 3m (lxw) downstream of footbridge
+LS01,Horse Stable Pond,No,Laguna Salada,perennial,pond,San Mateo,CRLF,lentic,,,,,,,10,NAD83,,,
+LS02,Laguna Salada Northwest shoreline,No,Laguna Salada,perennial,pond,San Mateo,CRLF,lentic,,,,,,,10,NAD83,,,Sharp Park Golf Course
+LS03,Laguna Salada Southwest shoreline,No,Laguna Salada,perennial,pond,San Mateo,CRLF,lentic,,,,,,,10,NAD83,,,Sharp Park Golf Course
+LS04,Horse Stable Pond Slough,No,Laguna Salada,perennial,stream,San Mateo,CRLF,lentic,,,,,544698,4164018,10,NAD83,,,Sharp Park Golf Course
+LS05,"Mori Point ""Willow Pond"" nr Sanchez Creek",No,Laguna Salada,perennial,pond,San Mateo,CRLF,lentic,,,,,,,10,NAD83,,,aka Pond 'A' . Constructed Fall 2004
+LS06,"Mori Point ""Middle Pond"" @ Mori's Pt Road",Yes,Laguna Salada,seasonal,pond,San Mateo,CRLF,lentic,,,,,,,10,NAD83,,,aka Pond 'D.'Constructed Fall 2004
+LS07,"Mori Point ""Southern Pond""",Yes,Laguna Salada,seasonal,pond,San Mateo,CRLF,lentic,,,,,,,10,NAD83,,,Pond created in fall 2007
+LS08,"Mori Point ""Wetland Pond""",Yes,Laguna Salada,perennial,pond,San Mateo,CRLF,lentic,,,,,,,10,NAD83,,,nr Sanchez Creek at boundary. Constructed in fall 2007 near Sanchez Creek willow riparian
+LS09,Sanchez Creek below Fairway Drive,No,Laguna Salada,perennial,stream,San Mateo,CRLF,lotic,,,,,,,10,NAD83,,,Downstream of pedestrian crossing on Sanchez Creek from Fairway Drive
+MC01,Milagra Ridge Oxid. Pond,Yes,Milagra Creek,seasonal,pond,San Mateo,CRLF,lentic,,,,,,,10,NAD83,,,Artificial oxidation pond created in 1960's by U.S. Army. 0.17 acres

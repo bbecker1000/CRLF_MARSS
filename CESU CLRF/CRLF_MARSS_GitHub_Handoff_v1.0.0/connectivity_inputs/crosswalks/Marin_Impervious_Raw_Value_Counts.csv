@@ -1,0 +1,6 @@
+dataset,field,value,n_features
+Marin impervious,Class,Other Paved Surface,109671
+Marin impervious,Class,Building,106326
+Marin impervious,Class,Other Dirt/Gravel Surface,8624
+Marin impervious,Class,Paved Road,2968
+Marin impervious,Class,Dirt/Gravel Road,1163

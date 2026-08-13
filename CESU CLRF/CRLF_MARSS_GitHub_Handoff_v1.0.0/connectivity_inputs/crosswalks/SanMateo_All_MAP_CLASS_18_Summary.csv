@@ -1,0 +1,107 @@
+map_class_clean,lifeform_clean,forest_lifeform_clean,n_polygons,total_acres,mean_polygon_acres
+Annual Cropland,Ag,Annual Cropland,186,2900.6854326353737,15.595082971157922
+Nursery or Ornamental Horticulture Area,Ag,Nursery or Ornamental Horticulture Area,46,437.12936974634033,9.502812385790007
+Vineyard,Ag,Vineyard,127,230.79223340771244,1.8172616803756885
+Perennial Agriculture,Ag,Perennial Agriculture,37,217.28285213097476,5.872509517053372
+Orchard or Grove,Ag,Orchard or Grove,69,101.56372090342569,1.4719379841076186
+Intensively Managed Hayfield,Ag,Intensively Managed Hayfield,4,52.91703609858944,13.22925902464736
+Irrigated Pasture,Ag,Irrigated Pasture,7,34.183863190641446,4.883409027234492
+Barren and Sparsely Vegetated,Barren and Sparsely Vegetated,Barren and Sparsely Vegetated,176,3090.6540426955944,17.560534333497696
+"Californian Cliff, Scree & Rock Vegetation Group",Barren and Sparsely Vegetated,Barren and Sparsely Vegetated,25,152.08825215107328,6.0835300860429316
+Developed,Developed,Developed,5704,62013.427273317,10.871919227439868
+"Zostera (marina, pacifica) Pacific Aquatic Alliance",Eel Grass,Eel Grass,3,7.946785022313136,2.6489283407710453
+Sequoia sempervirens Alliance,Forest,Conifer,21331,47352.12403139068,2.2198736126478216
+Quercus agrifolia Alliance,Forest,Evergreen Hardwood,9036,20784.196644307423,2.3001545644430528
+Pseudotsuga menziesii – Notholithocarpus densiflorus / Vaccinium ovatum Association,Forest,Conifer,9148,19731.344894683058,2.1569025901490004
+"Eucalyptus (globulus, camaldulensis) Provisional Semi-Natural Assocation",Forest,Non-native Forest,973,5178.020242082067,5.32170631252011
+Umbellularia californica Mapping Unit,Forest,Evergreen Hardwood,2315,4895.855312911056,2.11484030795294
+Pinus radiata Plantation Provisional Semi-Natural Association,Forest,Non-native Forest,1843,3744.526091588974,2.0317558825767628
+Non-native Forest,Forest,Non-native Forest,972,2701.789084281776,2.7796183994668477
+Notholithocarpus densiflorus Alliance,Forest,Evergreen Hardwood,1124,2288.859080322688,2.0363514949490105
+Quercus chrysolepis (tree) Alliance,Forest,Evergreen Hardwood,829,1929.055456741393,2.3269667753213428
+Hesperocyparis macrocarpa Ruderal Provisional Semi-Natural Association,Forest,Conifer,821,1792.6505046561037,2.183496351590869
+Forest Fragment,Forest,Forest,1891,1321.2771594718604,0.6987187517037866
+"Quercus (agrifolia, douglasii, garryana, kelloggii, lobata, wislizeni) Alliance",Forest,Deciduous Hardwood,354,954.0827613496318,2.695149043360542
+Aesculus californica Alliance,Forest,Deciduous Hardwood,284,569.843001234333,2.006489440965961
+Arbutus menziesii Alliance,Forest,Evergreen Hardwood,264,559.9163228442244,2.1208951622887287
+Quercus lobata Mapping Unit,Forest,Deciduous Hardwood,198,506.07667068711885,2.555942781248075
+Pinus attenuata Alliance,Forest,Conifer,210,458.86221972427234,2.1850581891632017
+Pinus muricata – Pinus radiata Alliance,Forest,Conifer,192,428.4274746729018,2.2313930972546965
+Quercus douglasii Alliance,Forest,Deciduous Hardwood,160,388.6080088264911,2.4288000551655693
+Quercus kelloggii Alliance,Forest,Deciduous Hardwood,62,130.15999367146046,2.0993547366364593
+Acacia spp. – Grevillea spp. – Leptospermum laevigatum Provisional Semi-Natural Alliance,Forest,Non-native Forest,14,32.35120928639779,2.310800663314128
+Acer macrophyllum Mapping Unit,Forest,Deciduous Hardwood,13,24.722834006547064,1.901756462042082
+Acacia melanoxylon Provisional Semi-Natural Association,Forest,Non-native Forest,8,18.491128825934762,2.3113911032418453
+"Schinus (molle, terebinthifolius) – Myoporum laetum Semi-natural Alliance",Forest,Non-native Forest,5,11.988206480951035,2.397641296190207
+Quercus wislizeni – Quercus parvula (tree) Alliance,Forest,Evergreen Hardwood,5,8.782509085250503,1.7565018170501003
+"Hesperocyparis abramsiana / Arctostaphylos (crustacea, silvicola) Association",Forest,Conifer,1,4.732667338106321,4.732667338106321
+Arid West Freshwater Emergent Marsh Group,Freshwater Herbaceous Wetland,Freshwater Herbaceous Wetland,213,403.76195260573,1.8955960216231456
+Vancouverian Freshwater Wet Meadow & Marsh Group,Freshwater Herbaceous Wetland,Freshwater Herbaceous Wetland,182,253.74664639227942,1.394212342814722
+Western North American Freshwater Aquatic Vegetation Macrogroup,Freshwater Herbaceous Wetland,Freshwater Herbaceous Wetland,1,5.9752694085590505,5.9752694085590505
+Californian Annual & Perennial Grassland Mapping Unit,Herbaceous,Herbaceous,4270,30489.430598416224,7.140381873165392
+Mesembryanthemum spp. – Carpobrotus spp. Semi-Natural Alliance,Herbaceous,Non-native Herbaceous,127,401.19452416315846,3.159012001284712
+Non-native Herbaceous,Herbaceous,Herbaceous,119,340.6750999735007,2.8628159661638715
+Eriophyllum staechadifolium – Erigeron glaucus – Eriogonum latifolium Alliance,Herbaceous,Herbaceous,104,217.62453533820027,2.092543609021156
+"Cortaderia (jubata, selloana) Semi-Natural Alliance",Herbaceous,Non-native Herbaceous,55,163.4410359724058,2.9716551994982874
+Conium maculatum – Foeniculum vulgare Semi-Natural Alliance,Herbaceous,Non-native Herbaceous,67,136.15974444531983,2.0322349917211917
+Ammophila arenaria Semi-Natural Alliance,Herbaceous,Non-native Herbaceous,11,28.17995314400731,2.5618139221824827
+Pacific Coastal Beach & Dune Mapping Unit,Herbaceous,Herbaceous,12,24.01464590101733,2.0012204917514445
+Carthamus lanatus Invasive Mapping Unit,Herbaceous,Non-native Herbaceous,2,16.153950216592285,8.076975108296143
+Delairea odorata Semi-Natural Association,Herbaceous,Non-native Herbaceous,6,15.856082323836587,2.6426803873060978
+Lotus scoparius – Lupinus albifrons – Eriodictyon spp. Alliance,Herbaceous,Herbaceous,6,13.693290948494415,2.2822151580824026
+Calamagrostis nutkaensis Alliance,Herbaceous,Non-native Herbaceous,1,2.6230526151134117,2.6230526151134117
+Heterotheca sessiliflora – Danthonia californica Provisional Association,Herbaceous,Herbaceous,1,1.4115014471701235,1.4115014471701235
+Major Road,Major Road,Major Road,9,2023.4880279949218,224.83200311054688
+Mudflat/Dry Pond Bottom Mapping Unit,Mudflat,Mudflat,2481,2916.0454155091397,1.1753508325308906
+Salix lasiolepis Alliance,Riparian Forest,Riparian Forest,3332,4656.902858381365,1.3976299094782008
+Acer macrophyllum – Alnus rubra Alliance,Riparian Forest,Riparian Forest,1139,2477.025903317216,2.174737404141542
+"Cornus sericea – Salix (lasiolepis, exigua) Association",Riparian Forest,Riparian Forest,81,239.35642942696268,2.9550176472464527
+Salix lucida ssp. lasiandra Association,Riparian Forest,Riparian Forest,80,190.68810394252228,2.3836012992815285
+Alnus rhombifolia Alliance,Riparian Forest,Riparian Forest,50,116.6818514081322,2.333637028162644
+Populus trichocarpa Alliance,Riparian Forest,Riparian Forest,18,48.60776313234265,2.700431285130147
+Salix gooddingii – Salix laevigata Alliance,Riparian Forest,Riparian Forest,10,44.96714822739382,4.496714822739382
+Acer negundo / (Rubus ursinus) Association,Riparian Forest,Riparian Forest,30,39.87998154921747,1.329332718307249
+Salix exigua Alliance,Riparian Forest,Riparian Forest,4,10.80123851899013,2.7003096297475326
+Juglans hindsii and Hybrids Special Stands and Semi-Natural Alliance,Riparian Forest,Riparian Forest,1,7.410860797331062,7.410860797331062
+Quercus agrifolia / Salix lasiolepis Association,Riparian Forest,Riparian Forest,2,3.823367222750942,1.911683611375471
+Salix hookeriana – Salix sitchensis – Spiraea douglasii Alliance,Riparian Forest,Riparian Forest,2,1.2772918329223129,0.6386459164611564
+Populus fremontii – Fraxinus velutina – Salix gooddingii Alliance,Riparian Forest,Riparian Forest,1,0.9096406762250767,0.9096406762250767
+Baccharis pilularis Alliance,Shrub,Shrub,13994,43285.03088962447,3.093113540776366
+Toxicodendron diversilobum – (Baccharis pilularis) Association,Shrub,Shrub,1490,3544.1250950897506,2.37860744636896
+Frangula californica ssp. californica – Baccharis pilularis / Scrophularia californica Association,Shrub,Shrub,836,3008.8498484742804,3.5991026895625366
+Mesic Coastal Scrub Mapping Unit,Shrub,Shrub,890,2646.7372267597734,2.9738620525390713
+Gaultheria shallon – Rubus (ursinus) Alliance,Shrub,Shrub,577,1326.0886091037203,2.298247156158961
+Artemisia californica – (Salvia leucophylla) Alliance,Shrub,Shrub,474,1176.818922525084,2.4827403428799237
+Adenostoma fasciculatum Alliance,Shrub,Shrub,375,971.7737622401266,2.5913966993070043
+"Arctostaphylos (crustacea, tomentosa) Alliance",Shrub,Shrub,323,908.6188328503107,2.8130614020133455
+Shrub Fragment,Shrub,Shrub,1207,843.3605804677597,0.6987245902798341
+Corylus cornuta / Polystichum munitum Association,Shrub,Shrub,120,680.0511805825782,5.667093171521485
+Ceanothus thyrsiflorus Alliance,Shrub,Shrub,242,488.00600808303466,2.016553752409234
+"Arctostaphylos (nummularia, sensitiva) – Chrysolepis chrysophylla Alliance",Shrub,Shrub,200,477.80862664464456,2.3890431332232227
+Prunus ilicifolia – Heteromeles arbutifolia – Ceanothus spinosus Alliance,Shrub,Shrub,156,433.1168593976451,2.776390124343879
+Arctostaphylos montarensis Association,Shrub,Shrub,138,429.91425567447635,3.115320693293307
+Rubus spectabilis – Morella californica Alliance,Shrub,Shrub,132,277.7245299739393,2.1039737119237825
+Non-native Shrub,Shrub,Shrub,133,241.49961633897385,1.815786589014841
+Hypericum canariense Provisional Semi-Natural Association,Shrub,Non-native Shrub,15,103.2678337465658,6.884522249771053
+Artemisia pycnocephala Association,Shrub,Shrub,32,70.3029547004592,2.19696733438935
+Ulex europaeus Provisional Semi-Natural Association,Shrub,Non-native Shrub,19,62.97565106995631,3.314507951050332
+Quercus durata Alliance,Shrub,Shrub,19,56.04557828254914,2.9497672780289017
+Quercus wislizeni – Quercus chrysolepis (shrub) Alliance,Shrub,Shrub,28,55.98704845034996,1.9995374446553558
+Genista monspessulana Semi-Natural Association,Shrub,Non-native Shrub,24,53.657937858734854,2.235747410780619
+Rubus armeniacus Semi-Natural Association,Shrub,Non-native Shrub,13,26.262266653205565,2.0201743579388896
+Ceanothus cuneatus Alliance,Shrub,Shrub,5,18.831604221978505,3.7663208443957013
+Lupinus chamissonis – Ericameria ericoides Alliance,Shrub,Shrub,11,18.771881946178947,1.7065347223799043
+"Cotoneaster (lacteus, pannosus) Provisional Semi-Natural Association",Shrub,Non-native Shrub,13,18.687145161435712,1.437472704725824
+Lupinus arboreus Alliance,Shrub,Shrub,8,13.841763432490731,1.7302204290613414
+Cercocarpus montanus Alliance,Shrub,Shrub,4,9.820743655009812,2.455185913752453
+Garrya elliptica Provisional Association,Shrub,Shrub,3,5.462129506324381,1.8207098354414604
+"Diplacus (aurantiacus, puniceus) Association",Shrub,Shrub,2,4.456796629428797,2.2283983147143984
+"Ceanothus (oliganthus, tomentosus) Alliance",Shrub,Shrub,1,1.1190713264252992,1.1190713264252992
+Sarcocornia pacifica (Salicornia depressa) Alliance,Tidal Wetland,Tidal Wetland,2108,3133.243710007338,1.4863584962084146
+Spartina foliosa Assocation,Tidal Wetland,Tidal Wetland,653,154.30586786598516,0.23630301357731265
+Distichlis spicata Alliance,Tidal Wetland,Tidal Wetland,313,104.09681627457935,0.33257768777820884
+Grindelia stricta Provisional Association,Tidal Wetland,Tidal Wetland,402,95.7441293527543,0.23816947600187638
+Bolboschoenus maritimus Alliance,Tidal Wetland,Tidal Wetland,111,25.45287465965695,0.22930517711402656
+"Cakile (edentula, maritima) Provisional Semi-Natural Alliance",Tidal Wetland,Tidal Wetland,3,5.092529876521797,1.697509958840599
+Atriplex prostrata – Cotula coronopifolia Semi-Natural Alliance,Tidal Wetland,Tidal Wetland,5,0.6011954029224384,0.12023908058448769
+Water,Water,Water,1647,15002.914067207696,9.109237442141891

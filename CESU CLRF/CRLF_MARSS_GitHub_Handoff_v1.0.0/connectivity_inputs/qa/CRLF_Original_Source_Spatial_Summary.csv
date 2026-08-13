@@ -1,0 +1,4 @@
+dataset,features,geometry_type,crs_epsg,crs_name
+Marin lifeform,28629,MULTIPOLYGON,6420,NAD83(2011) / California zone 3 (ftUS)
+San Mateo vegetation,97580,MULTIPOLYGON,6420,NAD83(2011) / California zone 3 (ftUS)
+Marin impervious,228752,MULTIPOLYGON; MULTISURFACE,2227,NAD83 / California zone 3 (ftUS)

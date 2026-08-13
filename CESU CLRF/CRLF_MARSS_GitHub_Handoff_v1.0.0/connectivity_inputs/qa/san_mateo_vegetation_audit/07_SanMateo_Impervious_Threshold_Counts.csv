@@ -1,0 +1,9 @@
+threshold_type,n_polygons
+Any impervious > 0,35925
+Impervious >= 10%,14697
+Impervious >= 25%,6592
+Impervious >= 50%,3236
+Paved road > 0,12752
+Dirt road > 0,9697
+Building > 0,8299
+Other impervious > 0,22132
