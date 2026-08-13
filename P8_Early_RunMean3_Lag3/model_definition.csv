@@ -1,0 +1,2 @@
+Model_ID,Model_Family,Hypothesis,Biological_Interpretation,Covariates,C_Structure,B_Structure,U_Structure,Q_Structure,R_Structure,Expected_Free_C
+P8_Early_RunMean3_Lag3,Recent climate memory + cohort lag,"Mean Oct-Dec PDSI across t, t-1, and t-2 plus Oct-Dec PDSI at t-3 influence site-specific CRLF egg-mass abundance dynamics.",Separates recent cumulative early-season climate from the immediately preceding t-3 cohort-memory year.,PDSI_OctDec_RunMean3|PDSI_OctDec_lag3,site_specific,identity,unequal,diagonal and unequal,zero,28

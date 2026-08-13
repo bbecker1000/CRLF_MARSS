@@ -1,0 +1,2 @@
+Model_ID,Model_Family,Hypothesis,Fit_Status,KEM_Convergence,KEM_Iterations,BFGS_Attempted,BFGS_Convergence,BFGS_Iterations,Final_Method,Final_Convergence,Final_Iterations,K,N_Free_C,LogLik,AIC,AICc,Error_Message,Run_ID
+P4_Late_Current_Lag3,Contemporary + cohort lag,Current Jan-Mar PDSI and Jan-Mar PDSI at t-3 jointly influence current CRLF egg-mass abundance dynamics.,CONVERGED,0,85,FALSE,NA,NA,KEM,0,85,70,28,-403.9221621602473,947.8443243204946,997.0522451125738,NA,20260810_153654_P4_Late_Current_Lag3

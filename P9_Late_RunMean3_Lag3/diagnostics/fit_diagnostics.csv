@@ -1,0 +1,2 @@
+Model_ID,Model_Family,Fit_Status,Final_Method,Final_Convergence,Final_Iterations,N_Sites,N_Years,Total_Site_Years,Observed_Site_Years,Missing_Site_Years,Observation_Fraction,K,N_Free_C,LogLik,AIC,AICc,Residuals_Available,Run_ID,Residual_Error
+P9_Late_RunMean3_Lag3,Recent climate memory + cohort lag,CONVERGED,KEM,0,122,14,29,406,273,133,0.6724137931034483,70,28,-416.5251708252256,973.0503416504512,1022.2582624425304,TRUE,20260810_153705_P9_Late_RunMean3_Lag3,NA

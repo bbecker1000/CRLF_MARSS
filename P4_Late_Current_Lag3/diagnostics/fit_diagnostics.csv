@@ -1,0 +1,2 @@
+Model_ID,Model_Family,Fit_Status,Final_Method,Final_Convergence,Final_Iterations,N_Sites,N_Years,Total_Site_Years,Observed_Site_Years,Missing_Site_Years,Observation_Fraction,K,N_Free_C,LogLik,AIC,AICc,Residuals_Available,Run_ID,Residual_Error
+P4_Late_Current_Lag3,Contemporary + cohort lag,CONVERGED,KEM,0,85,14,29,406,273,133,0.6724137931034483,70,28,-403.9221621602473,947.8443243204946,997.0522451125738,TRUE,20260810_153654_P4_Late_Current_Lag3,NA

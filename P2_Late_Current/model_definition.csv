@@ -1,0 +1,2 @@
+Model_ID,Model_Family,Hypothesis,Biological_Interpretation,Covariates,C_Structure,B_Structure,U_Structure,Q_Structure,R_Structure,Expected_Free_C
+P2_Late_Current,Contemporary climate,Current-year Jan-Mar PDSI influences site-specific CRLF egg-mass abundance dynamics.,Tests whether moisture conditions during the principal breeding-season window influence current site-level dynamics.,PDSI_JanMar,site_specific,identity,unequal,diagonal and unequal,zero,14

@@ -1,0 +1,2 @@
+Model_ID,Model_Family,Fit_Status,Final_Method,Final_Convergence,Final_Iterations,N_Sites,N_Years,Total_Site_Years,Observed_Site_Years,Missing_Site_Years,Observation_Fraction,K,N_Free_C,LogLik,AIC,AICc,Residuals_Available,Run_ID,Residual_Error
+P2_Late_Current,Contemporary climate,CONVERGED,KEM,0,173,14,29,406,273,133,0.6724137931034483,56,14,-415.25105770848927,942.5021154169784,972.057670972534,TRUE,20260810_153645_P2_Late_Current,NA

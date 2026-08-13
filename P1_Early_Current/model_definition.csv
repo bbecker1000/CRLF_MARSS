@@ -1,0 +1,2 @@
+Model_ID,Model_Family,Hypothesis,Biological_Interpretation,Covariates,C_Structure,B_Structure,U_Structure,Q_Structure,R_Structure,Expected_Free_C
+P1_Early_Current,Contemporary climate,Current-year Oct-Dec PDSI influences site-specific CRLF egg-mass abundance dynamics.,Tests whether antecedent early-season moisture conditions associated with pond filling influence the current biological year.,PDSI_OctDec,site_specific,identity,unequal,diagonal and unequal,zero,14

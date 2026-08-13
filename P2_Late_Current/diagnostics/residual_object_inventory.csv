@@ -1,0 +1,11 @@
+Model_ID,Component,Class,Dimensions
+P2_Late_Current,model.residuals,matrix|array,14 x 29
+P2_Late_Current,state.residuals,matrix|array,14 x 29
+P2_Late_Current,residuals,matrix|array,28 x 29
+P2_Late_Current,var.residuals,array,28 x 28 x 29
+P2_Late_Current,std.residuals,matrix|array,28 x 29
+P2_Late_Current,mar.residuals,matrix|array,28 x 29
+P2_Late_Current,bchol.residuals,matrix|array,28 x 29
+P2_Late_Current,E.obs.residuals,matrix|array,14 x 29
+P2_Late_Current,var.obs.residuals,array,14 x 14 x 29
+P2_Late_Current,msg,NULL,0

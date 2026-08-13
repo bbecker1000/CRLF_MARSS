@@ -1,0 +1,2 @@
+Model_ID,Model_Family,Hypothesis,Fit_Status,KEM_Convergence,KEM_Iterations,BFGS_Attempted,BFGS_Convergence,BFGS_Iterations,Final_Method,Final_Convergence,Final_Iterations,K,N_Free_C,LogLik,AIC,AICc,Error_Message,Run_ID
+P9_Late_RunMean3_Lag3,Recent climate memory + cohort lag,"Mean Jan-Mar PDSI across t, t-1, and t-2 plus Jan-Mar PDSI at t-3 influence site-specific CRLF egg-mass abundance dynamics.",CONVERGED,0,122,FALSE,NA,NA,KEM,0,122,70,28,-416.52517082522564,973.0503416504513,1022.2582624425305,NA,20260810_153705_P9_Late_RunMean3_Lag3

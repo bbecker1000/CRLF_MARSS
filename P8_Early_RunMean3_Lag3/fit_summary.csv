@@ -1,0 +1,2 @@
+Model_ID,Model_Family,Hypothesis,Fit_Status,KEM_Convergence,KEM_Iterations,BFGS_Attempted,BFGS_Convergence,BFGS_Iterations,Final_Method,Final_Convergence,Final_Iterations,K,N_Free_C,LogLik,AIC,AICc,Error_Message,Run_ID
+P8_Early_RunMean3_Lag3,Recent climate memory + cohort lag,"Mean Oct-Dec PDSI across t, t-1, and t-2 plus Oct-Dec PDSI at t-3 influence site-specific CRLF egg-mass abundance dynamics.",CONVERGED,0,133,FALSE,NA,NA,KEM,0,133,70,28,-413.3112712320694,966.6225424641387,1015.830463256218,NA,20260810_153700_P8_Early_RunMean3_Lag3

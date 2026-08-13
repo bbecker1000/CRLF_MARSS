@@ -1,0 +1,2 @@
+Model_ID,Model_Family,Hypothesis,Biological_Interpretation,Covariates,C_Structure,B_Structure,U_Structure,Q_Structure,R_Structure,Expected_Free_C
+P4_Late_Current_Lag3,Contemporary + cohort lag,Current Jan-Mar PDSI and Jan-Mar PDSI at t-3 jointly influence current CRLF egg-mass abundance dynamics.,Tests a possible lagged cohort effect while accounting for moisture conditions during the current breeding season.,PDSI_JanMar|PDSI_JanMar_lag3,site_specific,identity,unequal,diagonal and unequal,zero,28

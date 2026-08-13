@@ -1,0 +1,2 @@
+Model_ID,Model_Family,Hypothesis,Fit_Status,KEM_Convergence,KEM_Iterations,BFGS_Attempted,BFGS_Convergence,BFGS_Iterations,Final_Method,Final_Convergence,Final_Iterations,K,N_Free_C,LogLik,AIC,AICc,Error_Message,Run_ID
+P1_Early_Current,Contemporary climate,Current-year Oct-Dec PDSI influences site-specific CRLF egg-mass abundance dynamics.,CONVERGED,0,112,FALSE,NA,NA,KEM,0,112,56,14,-427.32585114573453,966.6517022914691,996.2072578470246,NA,20260810_153641_P1_Early_Current

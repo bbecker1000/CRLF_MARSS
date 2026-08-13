@@ -1,0 +1,2 @@
+Model_ID,Model_Family,Hypothesis,Biological_Interpretation,Covariates,C_Structure,B_Structure,U_Structure,Q_Structure,R_Structure,Expected_Free_C
+P7_Late_RunMean3,Recent climate memory,"Mean Jan-Mar PDSI across t, t-1, and t-2 influences site-specific CRLF egg-mass abundance dynamics.",Tests whether populations integrate breeding-season moisture conditions across the three most recent biological years.,PDSI_JanMar_RunMean3,site_specific,identity,unequal,diagonal and unequal,zero,14
