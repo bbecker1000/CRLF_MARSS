@@ -1,0 +1,17 @@
+Setting,Value,Description
+PIPELINE_VERSION,1.0.0,Version of the automated CRLF MARSS pipeline
+MASTER_SEED,20260810,Master random seed used for reproducible bootstrap analyses
+DEFAULT_BOOTSTRAPS,500,Default number of parametric bootstrap replicates
+MARSS_KEM_MAXIT,2000,Maximum iterations for primary KEM fitting
+MARSS_BFGS_MAXIT,1000,Maximum iterations for BFGS fallback optimization
+STUDY_START_YEAR,1997,First biological model year
+STUDY_END_YEAR,2025,Last biological model year
+RESPONSE_TRANSFORMATION,log(count + 1),Transformation applied to annual egg-mass observations
+DEFAULT_C_STRUCTURE,site_specific,Default climate-response parameterization
+DEFAULT_Z_STRUCTURE,identity,Observation-to-state mapping
+DEFAULT_B_STRUCTURE,identity,State transition matrix
+DEFAULT_U_STRUCTURE,unequal,Population growth/drift structure
+DEFAULT_Q_STRUCTURE,diagonal and unequal,Process variance structure
+DEFAULT_R_STRUCTURE,zero,Observation error structure
+BIOLOGICAL_MATRIX,marss_results/biological/marss_matrix_y_14sites_logTransformed.rds,Primary biological observation matrix
+CLIMATE_MASTER,marss_results/covariates/watershed_pdsi_master_long.csv,Continuous watershed PDSI source
