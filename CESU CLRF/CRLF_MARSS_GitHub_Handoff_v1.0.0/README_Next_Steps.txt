@@ -688,5 +688,5 @@ TENTH:
    coefficient diagnostics, local pond hydrology, hydroperiod structure, and
    landscape connectivity/rescue processes. Overall I would recommend talking more
    to biological experts on what they believe is the most important climate variable
-   and time frame affecting these sites. 
+   and time frame affecting these sites. Maybe look at Vapor pressue Deficit or Climate Water Deficit. 
 
